@@ -167,6 +167,94 @@
                 <person xml:id="saint-1889" ana="#syriaca-saint">
                     <persName xml:id="name1889-2" xml:lang="en" syriaca-tags="#syriaca-headword">Martyrs</persName>
                     <persName xml:id="name1889-3" xml:lang="fr" source="#bib1889-1">Martyrs</persName>
+                    <event type="attestation" xml:id="attestation1889-1" source="bib1889-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1889">Martyrs</persName> is commemorated in <title ref="http://syriaca.org/work/718">Martyrs (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1889-2" source="bib1889-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1889">Martyrs</persName> is commemorated in <title ref="http://syriaca.org/work/746">Martyrs (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1889-3" source="bib1889-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1889">Martyrs</persName> is commemorated in <title ref="http://syriaca.org/work/747">Martyrs (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1889-4" source="bib1889-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1889">Martyrs</persName> is commemorated in <title ref="http://syriaca.org/work/748">Martyrs (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1889-5" source="bib1889-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1889">Martyrs</persName> is commemorated in <title ref="http://syriaca.org/work/749">Martyrs (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1889-6" source="bib1889-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1889">Martyrs</persName> is commemorated in <title ref="http://syriaca.org/work/750">Martyrs (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1889-7" source="bib1889-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1889">Martyrs</persName> is commemorated in <title ref="http://syriaca.org/work/751">Martyrs (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1889-8" source="bib1889-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1889">Martyrs</persName> is commemorated in <title ref="http://syriaca.org/work/752">Martyrs (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1889-9" source="bib1889-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1889">Martyrs</persName> is commemorated in <title ref="http://syriaca.org/work/753">Martyrs (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1889-10" source="bib1889-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1889">Martyrs</persName> is commemorated in <title ref="http://syriaca.org/work/754">Martyrs (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1889-11" source="bib1889-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1889">Martyrs</persName> is commemorated in <title ref="http://syriaca.org/work/755">Martyrs (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1889-12" source="bib1889-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1889">Martyrs</persName> is commemorated in <title ref="http://syriaca.org/work/756">Martyrs (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1889-13" source="bib1889-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1889">Martyrs</persName> is commemorated in <title ref="http://syriaca.org/work/757">Martyrs (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1889-14" source="bib1889-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1889">Martyrs</persName> is commemorated in <title ref="http://syriaca.org/work/758">Martyrs (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1889-15" source="bib1889-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1889">Martyrs</persName> is commemorated in <title ref="http://syriaca.org/work/759">Martyrs (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1889-16" source="bib1889-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1889">Martyrs</persName> is commemorated in <title ref="http://syriaca.org/work/779">Martyrs (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1889-17" source="bib1889-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1889">Martyrs</persName> is commemorated in <title ref="http://syriaca.org/work/1003">The Martyrs (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1889-18" source="bib1889-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1889">Martyrs</persName> is commemorated in <title ref="http://syriaca.org/work/1004">The Martyrs (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1889-19" source="bib1889-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1889">Martyrs</persName> is commemorated in <title ref="http://syriaca.org/work/1005">The Martyrs (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1889-20" source="bib1889-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1889">Martyrs</persName> is commemorated in <title ref="http://syriaca.org/work/1006">The Martyrs (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1889-21" source="bib1889-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1889">Martyrs</persName> is commemorated in <title ref="http://syriaca.org/work/1007">The Martyrs (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1889-22" source="bib1889-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1889">Martyrs</persName> is commemorated in <title ref="http://syriaca.org/work/1008">The Martyrs (text)</title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/1889</idno>
                     <idno type="BHS">504</idno>
                     <idno type="BHS">532</idno>

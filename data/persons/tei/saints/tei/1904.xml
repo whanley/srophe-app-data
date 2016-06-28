@@ -169,6 +169,26 @@
                     <persName xml:id="name1904-2" xml:lang="en" syriaca-tags="#syriaca-headword">Martyrs of
           Sinai (40)</persName>
                     <persName xml:id="name1904-3" xml:lang="fr" source="#bib1904-1">Martyrs du Sinaï (40)</persName>
+                    <event type="attestation" xml:id="attestation1904-1" source="bib1904-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1904">Martyrs of
+          Sinai (40)</persName> is commemorated in <title ref="http://syriaca.org/work/905">The Martyrs of Sinai (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1904-2" source="bib1904-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1904">Martyrs of
+          Sinai (40)</persName> is commemorated in <title ref="http://syriaca.org/work/1371">The Forty Martyrs of Sinai (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1904-3" source="bib1904-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1904">Martyrs of
+          Sinai (40)</persName> is commemorated in <title ref="http://syriaca.org/work/1372">The Forty Martyrs of Sinai (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1904-4" source="bib1904-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1904">Martyrs of
+          Sinai (40)</persName> is commemorated in <title ref="http://syriaca.org/work/1937">The 40 Martyrs of Sinai (text)</title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/1904</idno>
                     <idno type="BHS">701</idno>
                     <idno type="BHS">1236</idno>

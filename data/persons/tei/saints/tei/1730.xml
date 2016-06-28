@@ -170,6 +170,30 @@
           or apostles</persName>
                     <persName xml:id="name1730-4" xml:lang="fr" source="#bib1730-1">Évangélistes</persName>
                     <persName xml:id="name1730-5" xml:lang="fr" source="#bib1730-1">Évangélistes ou apôtres</persName>
+                    <event type="attestation" xml:id="attestation1730-1" source="bib1730-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1730">Evangelists</persName> is commemorated in <title ref="http://syriaca.org/work/1184">The Evangelists (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1730-2" source="bib1730-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1730">Evangelists</persName> is commemorated in <title ref="http://syriaca.org/work/1337">Evangelists (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1730-3" source="bib1730-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1730">Evangelists</persName> is commemorated in <title ref="http://syriaca.org/work/1654">The Evangelists (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1730-4" source="bib1730-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1730">Evangelists</persName> is commemorated in <title ref="http://syriaca.org/work/2007">The Evangelists (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1730-5" source="bib1730-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1730">Evangelists</persName> is commemorated in <title ref="http://syriaca.org/work/1185">The Evangelists or Apostles (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1730-6" source="bib1730-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1730">Evangelists</persName> is commemorated in <title ref="http://syriaca.org/work/1256">Apostles (or Evangelists) (text)</title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/1730</idno>
                     <idno type="BHS">1024</idno>
                     <idno type="BHS">1200</idno>

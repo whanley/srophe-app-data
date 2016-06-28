@@ -169,6 +169,11 @@
                     <persName xml:id="name1738-2" xml:lang="en" syriaca-tags="#syriaca-headword">Lunatic of
           the Tabennesiots</persName>
                     <persName xml:id="name1738-3" xml:lang="fr" source="#bib1738-1">Folle des Tabennésiotes</persName>
+                    <event type="attestation" xml:id="attestation1738-1" source="bib1738-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1738">Lunatic of
+          the Tabennesiots</persName> is commemorated in <title ref="http://syriaca.org/work/675">Fool of the Tabennesiots (text)</title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/1738</idno>
                     <idno type="BHS">459</idno>
                     <bibl xml:id="bib1738-1">

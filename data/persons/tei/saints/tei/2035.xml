@@ -169,6 +169,11 @@
                     <persName xml:id="name2035-2" xml:lang="en" syriaca-tags="#syriaca-headword">Refugees of
           Constantinople</persName>
                     <persName xml:id="name2035-3" xml:lang="fr" source="#bib2035-1">Réfugiés de Constantinople</persName>
+                    <event type="attestation" xml:id="attestation2035-1" source="bib2035-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/2035">Refugees of
+          Constantinople</persName> is commemorated in <title ref="http://syriaca.org/work/838">The Refugees of Constantinople (text)</title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/2035</idno>
                     <idno type="BHS">629</idno>
                     <bibl xml:id="bib2035-1">

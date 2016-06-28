@@ -171,6 +171,14 @@
                     <persName xml:id="name1259-4" xml:lang="fr-x-zanetti" source="#bib1259-2">Ṭahmazgerd</persName>
                     <persName xml:id="name1259-5" xml:lang="fr" source="#bib1259-2">Tahmazgerd</persName>
                     <persName xml:id="name1259-6" xml:lang="fr-x-fiey" source="#bib1259-1">ḤABĪB</persName>
+                    <event type="attestation" xml:id="attestation1259-1" source="bib1259-2">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1259">Tahmazgerd</persName> is commemorated in <title ref="http://syriaca.org/work/1186">Tahmazgerd (text) — </title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1259-2" source="bib1259-2">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1259">Tahmazgerd</persName> is commemorated in <title ref="http://syriaca.org/work/1723">Tahmazgerd (text) — </title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/1259</idno>
                     <idno type="FIEY">183</idno>
                     <idno type="BHS">1026</idno>

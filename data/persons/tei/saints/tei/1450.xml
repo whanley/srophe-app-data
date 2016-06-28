@@ -174,6 +174,10 @@
                     <persName xml:id="name1450-5" xml:lang="fr-x-zanetti" source="#bib1450-2">Šemʿōn</persName>
                     <persName xml:id="name1450-6" xml:lang="fr" source="#bib1450-2">Simon</persName>
                     <persName xml:id="name1450-7" xml:lang="fr-x-fiey" source="#bib1450-1">ŠAPOR, ISAAC, MA'NA, ABRAHAM, et SIMEON</persName>
+                    <event type="attestation" xml:id="attestation1450-1" source="bib1450-2">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1450">Simon</persName> is commemorated in <title ref="http://syriaca.org/work/261">Shabōr, Isaac, Ma‘na, Abraham and Simon (text) — </title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/1450</idno>
                     <idno type="FIEY">386</idno>
                     <idno type="BHS">40</idno>

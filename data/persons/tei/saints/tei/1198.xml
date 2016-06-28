@@ -172,6 +172,16 @@
                     <persName xml:id="name1198-3" xml:lang="en">Daniel</persName>
                     <persName xml:id="name1198-4" xml:lang="fr" source="#bib1198-2">Daniel de Galash</persName>
                     <persName xml:id="name1198-5" xml:lang="fr-x-fiey" source="#bib1198-1">DANIEL</persName>
+                    <event type="attestation" xml:id="attestation1198-1" source="bib1198-2">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1198">Daniel of
+          Galash</persName> is commemorated in <title ref="http://syriaca.org/work/1068">Daniel of Galash (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1198-2" source="bib1198-2">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1198">Daniel of
+          Galash</persName> is commemorated in <title ref="http://syriaca.org/work/1876">Daniel of Galash (text)</title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/1198</idno>
                     <idno type="FIEY">115</idno>
                     <idno type="BHS">894</idno>

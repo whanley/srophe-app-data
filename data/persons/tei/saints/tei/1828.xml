@@ -169,6 +169,11 @@
                     <persName xml:id="name1828-2" xml:lang="en" syriaca-tags="#syriaca-headword">Young man of
           Alexandria</persName>
                     <persName xml:id="name1828-3" xml:lang="fr" source="#bib1828-1">Jeune homme d’Alexandrie</persName>
+                    <event type="attestation" xml:id="attestation1828-1" source="bib1828-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1828">Young man of
+          Alexandria</persName> is commemorated in <title ref="http://syriaca.org/work/475">A Young Man of Alexandria (text)</title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/1828</idno>
                     <idno type="BHS">255</idno>
                     <bibl xml:id="bib1828-1">

@@ -169,6 +169,10 @@
                     <persName xml:id="name1190-2" xml:lang="en" syriaca-tags="#syriaca-headword">Cyriacus</persName>
                     <persName xml:id="name1190-3" xml:lang="fr" source="#bib1190-2">Cyriaque de Mardé (translation de Mâr Jacques)</persName>
                     <persName xml:id="name1190-4" xml:lang="fr-x-fiey" source="#bib1190-1">CYRIAQUE</persName>
+                    <event type="attestation" xml:id="attestation1190-1" source="bib1190-2">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1190">Cyriacus</persName> is commemorated in <title ref="http://syriaca.org/work/1891">Translation of Jacob (Baradaeus) by Cyriacus of Marde (text)</title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/1190</idno>
                     <idno type="FIEY">107</idno>
                     <idno type="BHS">1851</idno>

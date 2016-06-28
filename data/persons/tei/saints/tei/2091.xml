@@ -165,6 +165,10 @@
             <listPerson>
                 <person xml:id="saint-2091" ana="#syriaca-saint">
                     <persName xml:id="name2091-2" xml:lang="fr" source="#bib2091-1">Supérieurs (Livre des) (extrait: Babaï le Grand)</persName>
+                    <event type="attestation" xml:id="attestation2091-1" source="bib2091-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/2091"/> is commemorated in <title ref="http://syriaca.org/work/1842">Book of the Superiors (text)</title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/2091</idno>
                     <idno type="BHS">1792</idno>
                     <bibl xml:id="bib2091-1">

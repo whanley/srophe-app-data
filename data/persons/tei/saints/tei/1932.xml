@@ -169,6 +169,11 @@
                     <persName xml:id="name1932-2" xml:lang="en" syriaca-tags="#syriaca-headword">Monk who
           left a monastery</persName>
                     <persName xml:id="name1932-3" xml:lang="fr" source="#bib1932-1">Moine qui quitta un couvent</persName>
+                    <event type="attestation" xml:id="attestation1932-1" source="bib1932-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1932">Monk who
+          left a monastery</persName> is commemorated in <title ref="http://syriaca.org/work/810">A Monk who Left the Monastery (text)</title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/1932</idno>
                     <idno type="BHS">601</idno>
                     <bibl xml:id="bib1932-1">

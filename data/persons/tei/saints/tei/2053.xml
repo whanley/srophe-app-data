@@ -167,6 +167,10 @@
                 <person xml:id="saint-2053" ana="#syriaca-saint">
                     <persName xml:id="name2053-2" xml:lang="en" syriaca-tags="#syriaca-headword">Saints</persName>
                     <persName xml:id="name2053-3" xml:lang="fr" source="#bib2053-1">Saint (n’importe quel) (tourgama)</persName>
+                    <event type="attestation" xml:id="attestation2053-1" source="bib2053-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/2053">Saints</persName> is commemorated in <title ref="http://syriaca.org/work/1672">Saints (text)</title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/2053</idno>
                     <idno type="BHS">1600</idno>
                     <bibl xml:id="bib2053-1">

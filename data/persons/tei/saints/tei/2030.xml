@@ -169,6 +169,11 @@
                     <persName xml:id="name2030-2" xml:lang="en" syriaca-tags="#syriaca-headword">Prophets,
           Patriarchs, Fathers</persName>
                     <persName xml:id="name2030-3" xml:lang="fr" source="#bib2030-1">Prophètes, Patriarches, Pères</persName>
+                    <event type="attestation" xml:id="attestation2030-1" source="bib2030-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/2030">Prophets,
+          Patriarchs, Fathers</persName> is commemorated in <title ref="http://syriaca.org/work/1599">Prophets, Patriarchs, and Fathers (text)</title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/2030</idno>
                     <idno type="BHS">1518</idno>
                     <bibl xml:id="bib2030-1">

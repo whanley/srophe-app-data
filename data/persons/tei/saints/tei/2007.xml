@@ -165,6 +165,10 @@
             <listPerson>
                 <person xml:id="saint-2007" ana="#syriaca-saint">
                     <persName xml:id="name2007-2" xml:lang="fr" source="#bib2007-1">Pierre d’Afrique, le Patrice</persName>
+                    <event type="attestation" xml:id="attestation2007-1" source="bib2007-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/2007"/> is commemorated in <title ref="http://syriaca.org/work/1887">Peter of Africa (text)</title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/2007</idno>
                     <idno type="BHS">1846</idno>
                     <bibl xml:id="bib2007-1">

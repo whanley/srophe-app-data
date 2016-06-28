@@ -169,6 +169,11 @@
                     <persName xml:id="name1777-2" xml:lang="en" syriaca-tags="#syriaca-headword">Man in a
           tree</persName>
                     <persName xml:id="name1777-3" xml:lang="fr" source="#bib1777-1">Homme dans un arbre</persName>
+                    <event type="attestation" xml:id="attestation1777-1" source="bib1777-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1777">Man in a
+          tree</persName> is commemorated in <title ref="http://syriaca.org/work/1639">A Man in a Tree (text)</title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/1777</idno>
                     <idno type="BHS">1565</idno>
                     <bibl xml:id="bib1777-1">

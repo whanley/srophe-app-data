@@ -170,6 +170,14 @@
                     <persName xml:id="name1372-3" xml:lang="en">Matta</persName>
                     <persName xml:id="name1372-4" xml:lang="fr" source="#bib1372-2">Mattaï (Mâr)</persName>
                     <persName xml:id="name1372-5" xml:lang="fr-x-fiey" source="#bib1372-1">MATTA</persName>
+                    <event type="attestation" xml:id="attestation1372-1" source="bib1372-2">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1372">Mattai</persName> is commemorated in <title ref="http://syriaca.org/work/1593">Mattai (Mar) (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1372-2" source="bib1372-2">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1372">Mattai</persName> is commemorated in <title ref="http://syriaca.org/work/1594">Mattai (Mar) (text)</title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/1372</idno>
                     <idno type="FIEY">305</idno>
                     <idno type="BHS">1512</idno>

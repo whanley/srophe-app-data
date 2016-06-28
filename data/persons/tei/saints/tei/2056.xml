@@ -167,6 +167,26 @@
                 <person xml:id="saint-2056" ana="#syriaca-saint">
                     <persName xml:id="name2056-2" xml:lang="en" syriaca-tags="#syriaca-headword">Saints</persName>
                     <persName xml:id="name2056-3" xml:lang="fr" source="#bib2056-1">Saints</persName>
+                    <event type="attestation" xml:id="attestation2056-1" source="bib2056-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/2056">Saints</persName> is commemorated in <title ref="http://syriaca.org/work/1569">Saints (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation2056-2" source="bib2056-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/2056">Saints</persName> is commemorated in <title ref="http://syriaca.org/work/1683">Saints (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation2056-3" source="bib2056-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/2056">Saints</persName> is commemorated in <title ref="http://syriaca.org/work/1688">Saints (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation2056-4" source="bib2056-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/2056">Saints</persName> is commemorated in <title ref="http://syriaca.org/work/1699">Saints (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation2056-5" source="bib2056-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/2056">Saints</persName> is commemorated in <title ref="http://syriaca.org/work/2023">Saints (text)</title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/2056</idno>
                     <idno type="BHS">1486</idno>
                     <idno type="BHS">1611</idno>

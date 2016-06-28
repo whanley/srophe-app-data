@@ -173,6 +173,46 @@
           Children of Ephesus</persName>
                     <persName xml:id="name1227-4" xml:lang="fr" source="#bib1227-2">Enfants d’Éphèse</persName>
                     <persName xml:id="name1227-5" xml:lang="fr-x-fiey" source="#bib1227-1">LES HUITS ENFANTS D'ÈPEHESE</persName>
+                    <event type="attestation" xml:id="attestation1227-1" source="bib1227-2">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1227">Children of
+          Ephesus</persName> is commemorated in <title ref="http://syriaca.org/work/250">The Children or Sleepers of Ephesus (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1227-2" source="bib1227-2">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1227">Children of
+          Ephesus</persName> is commemorated in <title ref="http://syriaca.org/work/563">The Children of Ephesus (or Sleepers) (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1227-3" source="bib1227-2">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1227">Children of
+          Ephesus</persName> is commemorated in <title ref="http://syriaca.org/work/1053">The Children of Ephesus (Sleepers) (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1227-4" source="bib1227-2">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1227">Children of
+          Ephesus</persName> is commemorated in <title ref="http://syriaca.org/work/1151">The Children of Ephesus (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1227-5" source="bib1227-2">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1227">Children of
+          Ephesus</persName> is commemorated in <title ref="http://syriaca.org/work/1246">The Children of Ephesus (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1227-6" source="bib1227-2">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1227">Children of
+          Ephesus</persName> is commemorated in <title ref="http://syriaca.org/work/1929">The Children of Ephesus (Sleepers) (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1227-7" source="bib1227-2">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1227">Children of
+          Ephesus</persName> is commemorated in <title ref="http://syriaca.org/work/2018">The Children of Ephesus (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1227-8" source="bib1227-2">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1227">Children of
+          Ephesus</persName> is commemorated in <title ref="http://syriaca.org/work/2035">Children of Ephesus (variation) (text)</title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/1227</idno>
                     <idno type="FIEY">146</idno>
                     <idno type="BHS">29</idno>

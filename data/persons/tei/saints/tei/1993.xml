@@ -169,6 +169,11 @@
                     <persName xml:id="name1993-2" xml:lang="en" syriaca-tags="#syriaca-headword">Fathers
           (Paradise of)</persName>
                     <persName xml:id="name1993-3" xml:lang="fr" source="#bib1993-1">Pères (Paradis des)</persName>
+                    <event type="attestation" xml:id="attestation1993-1" source="bib1993-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1993">Fathers
+          (Paradise of)</persName> is commemorated in <title ref="http://syriaca.org/work/1289">The Paradise of the Fathers (text)</title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/1993</idno>
                     <idno type="BHS">1135</idno>
                     <bibl xml:id="bib1993-1">

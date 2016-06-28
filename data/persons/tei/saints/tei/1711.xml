@@ -171,6 +171,10 @@
                     <persName xml:id="name1711-1" xml:lang="fr" source="#bib1711-1">Étienne</persName>
                     <persName xml:id="name1711-2" xml:lang="en" syriaca-tags="#syriaca-headword">Stephen the Protomartyr</persName>
                     <persName xml:id="name1711-3" xml:lang="syr" resp="http://syriaca.org" syriaca-tags="#syriaca-headword">ܐܣܛܝܦܐܢ</persName>
+                    <event type="attestation" xml:id="attestation1711-1" source="bib1711-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1711">Stephen the Protomartyr</persName> is commemorated in <title ref="http://syriaca.org/work/709">Steven (text) — </title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/1711</idno>
                     <idno type="BHS">494</idno>
                     <sex value="M" source="#bib1711-1">male</sex>
