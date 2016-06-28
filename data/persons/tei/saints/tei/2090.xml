@@ -169,8 +169,12 @@
                     <persName xml:id="name2090-2" xml:lang="en" syriaca-tags="#syriaca-headword">Book of the
           Governors</persName>
                     <persName xml:id="name2090-3" xml:lang="fr" source="#bib2090-1">Supérieurs (Livre des)</persName>
+                    <event type="attestation" xml:id="attestation2090-1" source="bib2090-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/2090">Book of the
+          Governors</persName> is commemorated in <title ref="http://syriaca.org/work/1290">The Book of Governors (text)</title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/2090</idno>
-                    <idno type="BHS">1136</idno>
                     <bibl xml:id="bib2090-1">
                         <title level="m" xml:lang="la">Bibliotheca Hagiographica Syriaca</title>
                         <ptr target="http://syriaca.org/bibl/649"/>

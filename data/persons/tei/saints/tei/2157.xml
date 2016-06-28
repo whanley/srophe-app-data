@@ -165,8 +165,11 @@
             <listPerson>
                 <person xml:id="saint-2157" ana="#syriaca-saint">
                     <persName xml:id="name2157-2" xml:lang="fr" source="#bib2157-1">Zaka</persName>
+                    <event type="attestation" xml:id="attestation2157-1" source="bib2157-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/2157"/> is commemorated in <title ref="http://syriaca.org/work/2052">Zaka (text)</title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/2157</idno>
-                    <idno type="BHS">2024</idno>
                     <bibl xml:id="bib2157-1">
                         <title level="m" xml:lang="la">Bibliotheca Hagiographica Syriaca</title>
                         <ptr target="http://syriaca.org/bibl/649"/>

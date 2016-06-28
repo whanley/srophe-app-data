@@ -210,6 +210,9 @@
                     <citedRange unit="entry">195 I</citedRange>
                 </bibl>
             </bibl>
+            <listRelation>
+                <relation name="syriaca:commemorated" active="http://syriaca.org/work/1850" passive="http://syriaca.org/person/1893" source="#bib1850-1"/>
+            </listRelation>
         </body>
     </text>
 </TEI>

@@ -171,8 +171,12 @@
                     <persName xml:id="name2132-2" xml:lang="en">Phillipa</persName>
                     <persName xml:id="name2132-3" xml:lang="fr" source="#bib2132-1">un enfant d’Alexandrie</persName>
                     <persName xml:id="name2132-4" xml:lang="fr" source="#bib2132-1">Philippa</persName>
+                    <event type="attestation" xml:id="attestation2132-1" source="bib2132-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/2132">A Child from
+          Alexandria</persName> is commemorated in <title ref="http://syriaca.org/work/1628">A Virgin and a Child of Alexandria (text)</title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/2132</idno>
-                    <idno type="BHS">1552</idno>
                     <note type="incerta">The identity of this saint is uncertain.</note>
                     <bibl xml:id="bib2132-1">
                         <title level="m" xml:lang="la">Bibliotheca Hagiographica Syriaca</title>

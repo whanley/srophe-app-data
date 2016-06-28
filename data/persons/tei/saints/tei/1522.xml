@@ -169,9 +169,12 @@
                     <persName xml:id="name1522-2" xml:lang="en" syriaca-tags="#syriaca-headword">Yozadaq</persName>
                     <persName xml:id="name1522-3" xml:lang="fr" source="#bib1522-2">Yozadaq</persName>
                     <persName xml:id="name1522-4" xml:lang="fr-x-fiey" source="#bib1522-1">YOZADĀQ</persName>
+                    <event type="attestation" xml:id="attestation1522-1" source="bib1522-2">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1522">Yozadaq</persName> is commemorated in <title ref="http://syriaca.org/work/1790">Yozadaq (text)</title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/1522</idno>
                     <idno type="FIEY">466</idno>
-                    <idno type="BHS">1728</idno>
                     <sex value="M" source="#bib1522-1">male</sex>
                     <floruit source="#bib1522-1" from="0600" syriaca-computed-start="0600" to="699" syriaca-computed-end="0700" notBefore="0600" notAfter="0700">0600-6990600-0700</floruit>
                     <note>Fiey provides the following bibliographic citations: <quote source="#bib1522-1">Fiey, Nisibe, 214- 15.

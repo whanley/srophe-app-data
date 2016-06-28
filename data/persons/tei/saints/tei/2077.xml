@@ -165,8 +165,11 @@
             <listPerson>
                 <person xml:id="saint-2077" ana="#syriaca-saint">
                     <persName xml:id="name2077-2" xml:lang="fr" source="#bib2077-1">Shamlî</persName>
+                    <event type="attestation" xml:id="attestation2077-1" source="bib2077-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/2077"/> is commemorated in <title ref="http://syriaca.org/work/1789">Shamli (text)</title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/2077</idno>
-                    <idno type="BHS">1727</idno>
                     <bibl xml:id="bib2077-1">
                         <title level="m" xml:lang="la">Bibliotheca Hagiographica Syriaca</title>
                         <ptr target="http://syriaca.org/bibl/649"/>

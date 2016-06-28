@@ -168,9 +168,12 @@
                 <person xml:id="saint-1093" ana="#syriaca-saint">
                     <persName xml:id="name1093-2" xml:lang="en" syriaca-tags="#syriaca-headword">Abai</persName>
                     <persName xml:id="name1093-3" xml:lang="fr-x-fiey" source="#bib1093-1">ĀBĀÏ</persName>
+                    <event type="attestation" xml:id="attestation1093-1" source="bib1093-2">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1093">Abai</persName> is commemorated in <title ref="http://syriaca.org/work/806">Abi (text) — </title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/1093</idno>
                     <idno type="FIEY">4</idno>
-                    <idno type="BHS">596</idno>
                     <sex value="M" source="#bib1093-1">male</sex>
                     <floruit source="#bib1093-1" notBefore="0335" syriaca-computed-start="0335" notAfter="0385" syriaca-computed-end="0385">0335-0385</floruit>
                     <state type="martyr" source="#bib1093-1">

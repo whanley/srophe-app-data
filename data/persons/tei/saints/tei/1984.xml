@@ -169,32 +169,107 @@
                     <persName xml:id="name1984-6" xml:lang="fr-x-zanetti" source="#bib1984-1">Pawlōs</persName>
                     <persName xml:id="name1984-7" xml:lang="fr" source="#bib1984-1">Paul, apôtre</persName>
 &gt;
+                    <event type="attestation" xml:id="attestation1984-1" source="bib1560-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1984">Paul the Apostle</persName> is commemorated in <title ref="http://syriaca.org/work/2017">Paul, the Apostle (text) — </title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1984-2" source="bib1560-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1984">Paul the Apostle</persName> is commemorated in <title ref="http://syriaca.org/work/1839">Paul, the Apostle (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1984-3" source="bib1560-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1984">Paul the Apostle</persName> is commemorated in <title ref="http://syriaca.org/work/1281">Paul, the Apostle (text) — </title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1984-4" source="bib1560-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1984">Paul the Apostle</persName> is commemorated in <title ref="http://syriaca.org/work/1636">Paul (Finding of the Apostle) (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1984-5" source="bib1560-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1984">Paul the Apostle</persName> is commemorated in <title ref="http://syriaca.org/work/280">Thecla and Her Companions (text) — </title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1984-6" source="bib1560-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1984">Paul the Apostle</persName> is commemorated in <title ref="http://syriaca.org/work/1304">Daniel (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1984-7" source="bib1560-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1984">Paul the Apostle</persName> is commemorated in <title ref="http://syriaca.org/work/1185">The Evangelists or Apostles (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1984-8" source="bib1560-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1984">Paul the Apostle</persName> is commemorated in <title ref="http://syriaca.org/work/951">Paul the Apostle (text) — </title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1984-9" source="bib1560-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1984">Paul the Apostle</persName> is commemorated in <title ref="http://syriaca.org/work/741">Thekla (text) — </title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1984-10" source="bib1560-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1984">Paul the Apostle</persName> is commemorated in <title ref="http://syriaca.org/work/893">Thecla (text) — </title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1984-11" source="bib1560-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1984">Paul the Apostle</persName> is commemorated in <title ref="http://syriaca.org/work/894">Thecla (text) — </title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1984-12" source="bib1560-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1984">Paul the Apostle</persName> is commemorated in <title ref="http://syriaca.org/work/1882">The Apostles (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1984-13" source="bib1560-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1984">Paul the Apostle</persName> is commemorated in <title ref="http://syriaca.org/work/2005">The Apostles (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1984-14" source="bib1560-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1984">Paul the Apostle</persName> is commemorated in <title ref="http://syriaca.org/work/1410">Apostles and Disciples (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1984-15" source="bib1560-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1984">Paul the Apostle</persName> is commemorated in <title ref="http://syriaca.org/work/1613">Peter and Paul (text) — </title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1984-16" source="bib1560-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1984">Paul the Apostle</persName> is commemorated in <title ref=""/>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1984-17" source="bib1560-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1984">Paul the Apostle</persName> is commemorated in <title ref=""/>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1984-18" source="bib1560-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1984">Paul the Apostle</persName> is commemorated in <title ref=""/>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1984-19" source="bib1560-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1984">Paul the Apostle</persName> is commemorated in <title ref=""/>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1984-20" source="bib1560-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1984">Paul the Apostle</persName> is commemorated in <title ref=""/>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1984-21" source="bib1560-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1984">Paul the Apostle</persName> is commemorated in <title ref=""/>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1984-22" source="bib1560-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1984">Paul the Apostle</persName> is commemorated in <title ref=""/>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1984-23" source="bib1560-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1984">Paul the Apostle</persName> is commemorated in <title ref=""/>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1984-24" source="bib1560-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1984">Paul the Apostle</persName> is commemorated in <title ref=""/>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1984-25" source="bib1560-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1984">Paul the Apostle</persName> is commemorated in <title ref=""/>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/1984</idno>
-                    <idno type="BHS">1986</idno>
-                    <idno type="BHS">1789</idno>
-                    <idno type="BHS">1127</idno>
-                    <idno type="BHS">1561</idno>
-                    <idno type="BHS">59</idno>
-                    <idno type="BHS">1154</idno>
-                    <idno type="BHS">1025</idno>
-                    <idno type="BHS">754</idno>
-                    <idno type="BHS">527</idno>
-                    <idno type="BHS">687</idno>
-                    <idno type="BHS">688</idno>
-                    <idno type="BHS">1841</idno>
-                    <idno type="BHS">1974</idno>
-                    <idno type="BHS">1280</idno>
-                    <idno type="BHS">1533</idno>
-                    <idno type="BHS"/>
-                    <idno type="BHS"/>
-                    <idno type="BHS"/>
-                    <idno type="BHS"/>
-                    <idno type="BHS"/>
-                    <idno type="BHS"/>
-                    <idno type="BHS"/>
-                    <idno type="BHS"/>
-                    <idno type="BHS"/>
-                    <idno type="BHS"/>
                     <state type="martyr" source="#bib1093-1">
                         <p>Martyr</p>
                     </state>

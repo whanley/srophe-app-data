@@ -240,6 +240,9 @@
                     <citedRange from="192" to="195" unit="pp">192-195</citedRange>
                 </bibl>
             </bibl>
+            <listRelation>
+                <relation name="syriaca:commemorated" active="http://syriaca.org/work/1137" passive="http://syriaca.org/person/1653" source="#bib1137-1"/>
+            </listRelation>
         </body>
     </text>
 </TEI>

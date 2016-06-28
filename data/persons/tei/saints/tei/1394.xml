@@ -171,9 +171,13 @@
           Constantinople</persName>
                     <persName xml:id="name1394-3" xml:lang="fr" source="#bib1394-2">Nestorius ou Trois docteurs nestoriens</persName>
                     <persName xml:id="name1394-4" xml:lang="fr-x-fiey" source="#bib1394-1">NESTORIUS DE CONSTANTINOPLE</persName>
+                    <event type="attestation" xml:id="attestation1394-1" source="bib1394-2">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1394">Nestorius of
+          Constantinople</persName> is commemorated in <title ref="http://syriaca.org/work/937">Nestorius (text)</title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/1394</idno>
                     <idno type="FIEY">328</idno>
-                    <idno type="BHS">734</idno>
                     <sex value="M" source="#bib1394-1">male</sex>
                     <birth when="0386" syriaca-computed-start="0386-01-01" source="#bib1394-1">0386</birth>
                     <death when="0450" syriaca-computed-start="0450-01-01" source="#bib1394-1">0450</death>

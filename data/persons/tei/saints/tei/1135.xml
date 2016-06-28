@@ -168,9 +168,12 @@
                 <person xml:id="saint-1135" ana="#syriaca-saint">
                     <persName xml:id="name1135-2" xml:lang="en" syriaca-tags="#syriaca-headword">ʿAqewshma</persName>
                     <persName xml:id="name1135-3" xml:lang="fr-x-fiey" source="#bib1135-1">AQEWŜMA</persName>
+                    <event type="attestation" xml:id="attestation1135-1" source="bib1135-2">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1135">ʿAqewshma</persName> is commemorated in <title ref="http://syriaca.org/work/285">Acepsimas, Joseph and Ithallaha (text) — </title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/1135</idno>
                     <idno type="FIEY">49</idno>
-                    <idno type="BHS">64</idno>
                     <sex value="M" source="#bib1135-1">male</sex>
                     <death when="0379" syriaca-computed-start="0379-01-01" source="#bib1135-1">0379</death>
                     <state type="martyr" source="#bib1135-1">

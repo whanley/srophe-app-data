@@ -169,8 +169,12 @@
                     <persName xml:id="name2054-2" xml:lang="en" syriaca-tags="#syriaca-headword">Saint (one
           who spent 25 years in a cave)</persName>
                     <persName xml:id="name2054-3" xml:lang="fr" source="#bib2054-1">Saint (un - qui passa 25 ans dans une grotte)</persName>
+                    <event type="attestation" xml:id="attestation2054-1" source="bib2054-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/2054">Saint (one
+          who spent 25 years in a cave)</persName> is commemorated in <title ref="http://syriaca.org/work/1713">A Saint who Spent 25 Years in a Cave (text)</title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/2054</idno>
-                    <idno type="BHS">1643</idno>
                     <bibl xml:id="bib2054-1">
                         <title level="m" xml:lang="la">Bibliotheca Hagiographica Syriaca</title>
                         <ptr target="http://syriaca.org/bibl/649"/>

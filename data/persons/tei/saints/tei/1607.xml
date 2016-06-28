@@ -169,9 +169,17 @@
                     <persName xml:id="name1607-2" xml:lang="en" syriaca-tags="#syriaca-headword">Apostles
           (12)</persName>
                     <persName xml:id="name1607-3" xml:lang="fr" source="#bib1607-1">Apôtres (12)</persName>
+                    <event type="attestation" xml:id="attestation1607-1" source="bib1607-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1607">Apostles
+          (12)</persName> is commemorated in <title ref="http://syriaca.org/work/1201">The 12 Apostles (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1607-2" source="bib1607-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1607">Apostles
+          (12)</persName> is commemorated in <title ref="http://syriaca.org/work/1202">The 12 Apostles (text)</title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/1607</idno>
-                    <idno type="BHS">1041</idno>
-                    <idno type="BHS">1042</idno>
                     <bibl xml:id="bib1607-1">
                         <title level="m" xml:lang="la">Bibliotheca Hagiographica Syriaca</title>
                         <ptr target="http://syriaca.org/bibl/649"/>

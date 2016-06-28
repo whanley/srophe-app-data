@@ -244,6 +244,9 @@
                     <citedRange unit="entry">1024</citedRange>
                 </bibl>
             </bibl>
+            <listRelation>
+                <relation name="syriaca:commemorated" active="http://syriaca.org/work/1184" passive="http://syriaca.org/person/1730" source="#bib1184-1"/>
+            </listRelation>
         </body>
     </text>
 </TEI>

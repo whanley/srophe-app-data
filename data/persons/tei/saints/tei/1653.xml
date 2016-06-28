@@ -167,16 +167,43 @@
                 <person xml:id="saint-1653" ana="#syriaca-saint">
                     <persName xml:id="name1653-2" xml:lang="en" syriaca-tags="#syriaca-headword">Confessors</persName>
                     <persName xml:id="name1653-3" xml:lang="fr" source="#bib1653-1">Confesseurs</persName>
+                    <event type="attestation" xml:id="attestation1653-1" source="bib1653-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1653">Confessors</persName> is commemorated in <title ref="http://syriaca.org/work/614">Confessors (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1653-2" source="bib1653-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1653">Confessors</persName> is commemorated in <title ref="http://syriaca.org/work/615">Confessors (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1653-3" source="bib1653-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1653">Confessors</persName> is commemorated in <title ref="http://syriaca.org/work/616">Confessors (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1653-4" source="bib1653-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1653">Confessors</persName> is commemorated in <title ref="http://syriaca.org/work/617">Confessors (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1653-5" source="bib1653-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1653">Confessors</persName> is commemorated in <title ref="http://syriaca.org/work/618">Confessors (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1653-6" source="bib1653-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1653">Confessors</persName> is commemorated in <title ref="http://syriaca.org/work/1137">Confessors (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1653-7" source="bib1653-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1653">Confessors</persName> is commemorated in <title ref="http://syriaca.org/work/1874">Confessors (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1653-8" source="bib1653-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1653">Confessors</persName> is commemorated in <title ref="http://syriaca.org/work/1931">Confessors (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1653-9" source="bib1653-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1653">Confessors</persName> is commemorated in <title ref="http://syriaca.org/work/1972">Confessors (text)</title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/1653</idno>
-                    <idno type="BHS">395</idno>
-                    <idno type="BHS">396</idno>
-                    <idno type="BHS">398</idno>
-                    <idno type="BHS">399</idno>
-                    <idno type="BHS">400</idno>
-                    <idno type="BHS">973</idno>
-                    <idno type="BHS">1829</idno>
-                    <idno type="BHS">1895</idno>
-                    <idno type="BHS">1939</idno>
                     <bibl xml:id="bib1653-1">
                         <title level="m" xml:lang="la">Bibliotheca Hagiographica Syriaca</title>
                         <ptr target="http://syriaca.org/bibl/649"/>

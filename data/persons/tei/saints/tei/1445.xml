@@ -171,12 +171,28 @@
           Qartmin</persName>
                     <persName xml:id="name1445-3" xml:lang="fr" source="#bib1445-2">Samuel de Qartamin</persName>
                     <persName xml:id="name1445-4" xml:lang="fr-x-fiey" source="#bib1445-1">SAMUEL DE QARTMIN</persName>
+                    <event type="attestation" xml:id="attestation1445-1" source="bib1445-2">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1445">Samuel of
+          Qartmin</persName> is commemorated in <title ref="http://syriaca.org/work/1063">Samuel of Qartmin (text)</title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1445-2" source="bib1445-2">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1445">Samuel of
+          Qartmin</persName> is commemorated in <title ref="http://syriaca.org/work/1595">Samuel of Qartmin (text) — </title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1445-3" source="bib1445-2">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1445">Samuel of
+          Qartmin</persName> is commemorated in <title ref="http://syriaca.org/work/1774">Samuel of Qartmin (text) — </title>.</p>
+                    </event>
+                    <event type="attestation" xml:id="attestation1445-4" source="bib1445-2">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1445">Samuel of
+          Qartmin</persName> is commemorated in <title ref="http://syriaca.org/work/1863">Samuel of Qartmin (text)</title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/1445</idno>
                     <idno type="FIEY">382</idno>
-                    <idno type="BHS">888</idno>
-                    <idno type="BHS">1514</idno>
-                    <idno type="BHS">1710</idno>
-                    <idno type="BHS">1816</idno>
                     <sex value="M" source="#bib1445-1">male</sex>
                     <death when="0410" syriaca-computed-start="0410-01-01" source="#bib1445-1">0410</death>
                     <note>Fiey provides the following bibliographic citations: <quote source="#bib1445-1">BSO, II, 931 (J.M. Fiey).</quote>

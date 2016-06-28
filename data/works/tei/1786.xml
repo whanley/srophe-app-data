@@ -196,6 +196,9 @@
                     <citedRange unit="entry">1724</citedRange>
                 </bibl>
             </bibl>
+            <listRelation>
+                <relation name="syriaca:commemorated" active="http://syriaca.org/work/1786" passive="http://syriaca.org/person/1758" source="#bib1786-1"/>
+            </listRelation>
         </body>
     </text>
 </TEI>

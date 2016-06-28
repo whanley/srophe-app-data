@@ -167,8 +167,11 @@
                 <person xml:id="saint-1654" ana="#syriaca-saint">
                     <persName xml:id="name1654-2" xml:lang="en" syriaca-tags="#syriaca-headword">Confessors</persName>
                     <persName xml:id="name1654-3" xml:lang="fr" source="#bib1654-1">Confesseurs</persName>
+                    <event type="attestation" xml:id="attestation1654-1" source="bib1654-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1654">Confessors</persName> is commemorated in <title ref="http://syriaca.org/work/1801">Confessors (12 Memre) (text)</title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/1654</idno>
-                    <idno type="BHS">1742</idno>
                     <note type="misc" source="#bib1654-">how should we handle non-specific groups like this?</note>
                     <bibl xml:id="bib1654-1">
                         <title level="m" xml:lang="la">Bibliotheca Hagiographica Syriaca</title>

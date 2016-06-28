@@ -165,8 +165,11 @@
             <listPerson>
                 <person xml:id="saint-1822" ana="#syriaca-saint">
                     <persName xml:id="name1822-2" xml:lang="fr" source="#bib1822-1">Jean KM’</persName>
+                    <event type="attestation" xml:id="attestation1822-1" source="bib1822-1">
+                        <p xml:lang="en">
+                            <persName ref="http://syriaca.org/person/1822"/> is commemorated in <title ref="http://syriaca.org/work/2046">John (text)</title>.</p>
+                    </event>
                     <idno type="URI">http://syriaca.org/person/1822</idno>
-                    <idno type="BHS">2018</idno>
                     <bibl xml:id="bib1822-1">
                         <title level="m" xml:lang="la">Bibliotheca Hagiographica Syriaca</title>
                         <ptr target="http://syriaca.org/bibl/649"/>
