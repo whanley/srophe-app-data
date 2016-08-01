@@ -57,7 +57,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -223,8 +223,7 @@
                     <bibl xml:id="bib3018-3">
                         <author>
                             <persName>
-                                <forename>E.</forename>
-                                <surname>Honigmann</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Stephen of Ephesus (448) and the Legend of the Seven
@@ -236,8 +235,7 @@
                     <bibl xml:id="bib3018-4">
                         <author>
                             <persName>
-                                <forename>Y.</forename>
-                                <surname>Moubarac</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <note>Study according to the</note>
@@ -248,8 +246,7 @@
                     <bibl xml:id="bib3018-5">
                         <author>
                             <persName>
-                                <forename>F.</forename>
-                                <surname>Jourdan</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>La tradition des Sept Dormants</title>
@@ -263,8 +260,7 @@
                     <bibl xml:id="bib3018-7">
                         <author>
                             <persName>
-                                <forename>M.</forename>
-                                <surname>van Esbroeck</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>La legende des Sept Dormants d'Ephese selon le Codex

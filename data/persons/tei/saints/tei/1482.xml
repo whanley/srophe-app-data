@@ -57,7 +57,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -201,8 +201,7 @@ BS, XI, 1138- 39 (D. Stiernon).</quote>
                     <bibl xml:id="bib1482-4">
                         <author>
                             <persName>
-                                <forename>P.</forename>
-                                <surname>van den Yen</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>La vie ancienne de S. Symeon Stylite le Jeune</title>
@@ -212,11 +211,11 @@ BS, XI, 1138- 39 (D. Stiernon).</quote>
                     <bibl xml:id="bib1482-5">
                         <author>
                             <persName>
-                                <forename>D.</forename>
-                                <surname>Stiernon</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BS</title>
+                        <ptr target="http://syriaca.org/bibl/1425"/>
                         <citedRange>XI,
                1138-39</citedRange>
                     </bibl>

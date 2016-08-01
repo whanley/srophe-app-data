@@ -56,7 +56,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -192,7 +192,7 @@ BS, VIII, 613- 14 (J.-M. Sauget).</quote>
                     <bibl xml:id="bib1353-3">
                         <author>
                             <persName>
-                                <surname>Devos</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Commémoraisons</title>
@@ -209,11 +209,11 @@ BS, VIII, 613- 14 (J.-M. Sauget).</quote>
                     <bibl xml:id="bib1353-5">
                         <author>
                             <persName>
-                                <forename>J.-M.</forename>
-                                <surname>Sauget</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BS</title>
+                        <ptr target="http://syriaca.org/bibl/1425"/>
                         <citedRange>VIII,
                   613-14</citedRange>
                     </bibl>

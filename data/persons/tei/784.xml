@@ -101,7 +101,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">The Syriac Biographical Dictionary</title>
@@ -205,6 +205,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2016-07-31-04:00">Add bibl ptr elements.</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2016-07-27-04:00">Split names in authors into forename and surname.</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2016-06-20-04:00">Move headword attribute from Gedesh to first English name.</change>
             <change who="http://syriaca.org/documentation/editors.xml#ngibson" when="2016-05-23+02:00" xml:id="change784-1">Merged in data from [duplicate record with same URI].</change>
@@ -283,8 +284,7 @@ BSO, II, 1166 (J.M. Fiey).</quote>
                     <bibl xml:id="bib784-1">
                         <author>
                             <persName>
-                                <forename>L.</forename>
-                                <surname>Van Rompay</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a" xml:lang="en">Theodosius of Alexandria</title>
@@ -326,20 +326,21 @@ BSO, II, 1166 (J.M. Fiey).</quote>
                     <bibl xml:id="bib784-8">
                         <author>
                             <persName>
-                                <surname>Barsaum</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Lu'lu' 2</title>
+                        <ptr target="http://syriaca.org/bibl/1386"/>
                         <citedRange>228</citedRange>
                     </bibl>
                     <bibl xml:id="bib784-9">
                         <author>
                             <persName>
-                                <forename>J.M.</forename>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BSO</title>
+                        <ptr target="http://syriaca.org/bibl/1426"/>
                         <citedRange>II,
                1166</citedRange>
                     </bibl>

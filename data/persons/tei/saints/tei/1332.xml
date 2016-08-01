@@ -58,7 +58,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -221,8 +221,7 @@
                     <bibl xml:id="bib1332-3">
                         <author>
                             <persName>
-                                <forename>Cornelia B.</forename>
-                                <surname>Horn</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a">Children as Pilgrims and the Cult of the Holy Children in the Early Syriac Tradition: The Cases of Theodoret of Cyrrhus and the Child-Martyrs Behnām, Sarah, and Cyriacus</title>

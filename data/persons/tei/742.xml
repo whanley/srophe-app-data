@@ -77,7 +77,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">The Syriac Biographical Dictionary</title>
@@ -221,8 +221,7 @@
                     <bibl xml:id="bib742-1">
                         <author>
                             <persName>
-                                <forename>G.</forename>
-                                <surname>Kessel</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a" xml:lang="en">Shemʿon d-Ṭaybutheh</title>

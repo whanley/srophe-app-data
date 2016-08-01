@@ -89,7 +89,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">The Syriac Biographical Dictionary</title>
@@ -193,6 +193,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2016-07-31-04:00">Add bibl ptr elements.</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2016-07-27-04:00">Split names in authors into forename and surname.</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2016-06-20-04:00">Move headword attribute from Gedesh to first English name.</change>
             <change who="http://syriaca.org/documentation/editors.xml#ngibson" when="2016-06-14+02:00" xml:id="change815-1">Merged in data from [http://syriaca.org/person/1328].</change>
@@ -256,8 +257,7 @@ BSO, II, 15-16 (J.M. Fiey).</quote>
                     <bibl xml:id="bib815-1">
                         <author>
                             <persName>
-                                <forename>S. P.</forename>
-                                <surname>Brock</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a" xml:lang="en">Yawsep Busnaya</title>
@@ -284,8 +284,7 @@ BSO, II, 15-16 (J.M. Fiey).</quote>
                     <bibl xml:id="bib815-5">
                         <author>
                             <persName>
-                                <forename>J.B.</forename>
-                                <surname>Chabot</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>"Vie du moine Rabban Youssef Busnaya"</title>
@@ -295,11 +294,11 @@ BSO, II, 15-16 (J.M. Fiey).</quote>
                     <bibl xml:id="bib815-6">
                         <author>
                             <persName>
-                                <forename>J.M.</forename>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BSO</title>
+                        <ptr target="http://syriaca.org/bibl/1426"/>
                         <citedRange>II,
                15-16</citedRange>
                     </bibl>

@@ -56,7 +56,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -206,24 +206,24 @@ BS, I, 646 (B . Burchi).</quote>
                     </bibl>
                     <bibl xml:id="bib1293-5">
                         <title>Šuhadā''</title>
+                        <ptr target="http://syriaca.org/bibl/1340"/>
                         <citedRange>I, 308-11</citedRange>
                     </bibl>
                     <bibl xml:id="bib1293-6">
                         <title>DHGE</title>
                         <author>
                             <persName>
-                                <forename>F.</forename>
-                                <surname>Nau</surname>
+                                <surname/>
                             </persName>
                         </author>
+                        <ptr target="http://syriaca.org/bibl/1381"/>
                         <citedRange>I, col. 1226, s.v.
                Aitalaha</citedRange>
                     </bibl>
                     <bibl xml:id="bib1293-7">
                         <author>
                             <persName>
-                                <forename>P.</forename>
-                                <surname>Peeters</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Passionnaire</title>
@@ -233,8 +233,7 @@ BS, I, 646 (B . Burchi).</quote>
                     <bibl xml:id="bib1293-8">
                         <author>
                             <persName>
-                                <forename>J .M.</forename>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>OS</title>
@@ -243,11 +242,11 @@ BS, I, 646 (B . Burchi).</quote>
                     <bibl xml:id="bib1293-9">
                         <author>
                             <persName>
-                                <forename>B .</forename>
-                                <surname>Burchi</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BS</title>
+                        <ptr target="http://syriaca.org/bibl/1425"/>
                         <citedRange>I, 646</citedRange>
                     </bibl>
                 </person>

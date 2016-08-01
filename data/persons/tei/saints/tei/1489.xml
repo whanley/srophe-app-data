@@ -58,7 +58,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -224,7 +224,7 @@ BS, XI, 1277-80 (A. Amore/M. Chiara Celletti).</quote>
                     <bibl xml:id="bib1489-5">
                         <author>
                             <persName>
-                                <surname>Lewis</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Holy Women</title>
@@ -234,7 +234,7 @@ BS, XI, 1277-80 (A. Amore/M. Chiara Celletti).</quote>
                     <bibl xml:id="bib1489-6">
                         <author>
                             <persName>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a">Saints</title>
@@ -244,8 +244,7 @@ BS, XI, 1277-80 (A. Amore/M. Chiara Celletti).</quote>
                     <bibl xml:id="bib1489-7">
                         <author>
                             <persName>
-                                <forename>M.</forename>
-                                <surname>van Esbroeck,</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a">Le saint comme symbole</title>
@@ -257,11 +256,11 @@ BS, XI, 1277-80 (A. Amore/M. Chiara Celletti).</quote>
                     <bibl xml:id="bib1489-8">
                         <author>
                             <persName>
-                                <forename>A.</forename>
-                                <surname>Amore</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BS</title>
+                        <ptr target="http://syriaca.org/bibl/1425"/>
                         <citedRange>XI,
                   1277-80</citedRange>
                     </bibl>

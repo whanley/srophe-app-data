@@ -57,7 +57,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -203,12 +203,13 @@ BSO, II, 262 (J .M. Fiey).</quote>
                     </bibl>
                     <bibl xml:id="bib1289-5">
                         <title>Mārī</title>
+                        <ptr target="http://syriaca.org/bibl/1336"/>
                         <citedRange>55 arabe</citedRange>
                     </bibl>
                     <bibl xml:id="bib1289-6">
                         <author>
                             <persName>
-                                <surname>Ṣlīwa</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <ptr target="http://syriaca.org/bibl/1320"/>
@@ -217,7 +218,7 @@ BSO, II, 262 (J .M. Fiey).</quote>
                     <bibl xml:id="bib1289-7">
                         <author>
                             <persName>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Mossoul chrétienne</title>
@@ -227,11 +228,11 @@ BSO, II, 262 (J .M. Fiey).</quote>
                     <bibl xml:id="bib1289-8">
                         <author>
                             <persName>
-                                <forename>J .M.</forename>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BSO</title>
+                        <ptr target="http://syriaca.org/bibl/1426"/>
                         <citedRange>II,
                262</citedRange>
                     </bibl>

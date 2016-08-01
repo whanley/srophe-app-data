@@ -58,7 +58,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -223,8 +223,7 @@ BS, VII, 1325- 28 (G. Lucchesi) .</quote>
                     <bibl xml:id="bib1341-4">
                         <author>
                             <persName>
-                                <forename>G.</forename>
-                                <surname>Garitte</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Le Museon</title>
@@ -233,8 +232,7 @@ BS, VII, 1325- 28 (G. Lucchesi) .</quote>
                     <bibl xml:id="bib1341-5">
                         <author>
                             <persName>
-                                <forename>J.M.</forename>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Le Museon</title>
@@ -243,7 +241,7 @@ BS, VII, 1325- 28 (G. Lucchesi) .</quote>
                     <bibl xml:id="bib1341-6">
                         <author>
                             <persName>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a">Hagiographie</title>
@@ -253,11 +251,11 @@ BS, VII, 1325- 28 (G. Lucchesi) .</quote>
                     <bibl xml:id="bib1341-7">
                         <author>
                             <persName>
-                                <forename>G.</forename>
-                                <surname>Lucchesi</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BS</title>
+                        <ptr target="http://syriaca.org/bibl/1425"/>
                         <citedRange>VII,
                1325-28</citedRange>
                     </bibl>

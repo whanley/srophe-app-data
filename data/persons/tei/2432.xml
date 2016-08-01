@@ -90,7 +90,7 @@
                                 License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">The Syriac Biographical Dictionary</title>
@@ -248,8 +248,7 @@
                     <bibl xml:id="bib2432-8">
                         <author>
                             <persName>
-                                <forename>W.</forename>
-                                <surname>Abuliff</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BSO</title>

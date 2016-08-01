@@ -63,7 +63,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">The Syriac Biographical Dictionary</title>
@@ -172,8 +172,7 @@
                     <bibl xml:id="bib466-1">
                         <author>
                             <persName>
-                                <forename>Polycarpus A. Aydin and G. A.</forename>
-                                <surname>Kiraz</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a" xml:lang="en">Elias, Ghaṭṭās (Danḥo) Maqdisi</title>

@@ -56,7 +56,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -190,7 +190,7 @@ BS, I, 130 (G. Lucchesi).</quote>
                     <bibl xml:id="bib1114-3">
                         <author>
                             <persName>
-                                <surname>Peeters</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Martyrologe</title>
@@ -200,11 +200,11 @@ BS, I, 130 (G. Lucchesi).</quote>
                     <bibl xml:id="bib1114-4">
                         <author>
                             <persName>
-                                <forename>G.</forename>
-                                <surname>Lucchesi</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BS</title>
+                        <ptr target="http://syriaca.org/bibl/1425"/>
                         <citedRange>I,
                130</citedRange>
                     </bibl>

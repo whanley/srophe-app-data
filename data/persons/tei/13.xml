@@ -100,7 +100,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">The Syriac Biographical Dictionary</title>
@@ -311,8 +311,7 @@ BS, IV, 944-49 (J.-M. Sauget).</quote>
                     <bibl xml:id="bib13-1">
                         <author>
                             <persName>
-                                <forename>S. P.</forename>
-                                <surname>Brock</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a" xml:lang="en">Ephrem</title>
@@ -499,8 +498,7 @@ BS, IV, 944-49 (J.-M. Sauget).</quote>
                     <bibl xml:id="bib13-10">
                         <author>
                             <persName>
-                                <forename>K.</forename>
-                                <surname>den Biesen</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Bibliography of Ephrem the Syrian</title>
@@ -510,8 +508,7 @@ BS, IV, 944-49 (J.-M. Sauget).</quote>
                         <title>"Saint Ephrem d'apres sa biographie et ses ceuvres"</title>
                         <author>
                             <persName>
-                                <forename>Dom B.</forename>
-                                <surname>Outier</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Parole d'Orient</title>
@@ -520,8 +517,7 @@ BS, IV, 944-49 (J.-M. Sauget).</quote>
                     <bibl xml:id="bib13-12">
                         <author>
                             <persName>
-                                <forename>J.</forename>
-                                <surname>Amar</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>"Byzantine Ascetic Monachism and Greek
@@ -531,8 +527,7 @@ BS, IV, 944-49 (J.-M. Sauget).</quote>
                     <bibl xml:id="bib13-13">
                         <author>
                             <persName>
-                                <forename>J.M.</forename>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Nisibe</title>
@@ -542,8 +537,7 @@ BS, IV, 944-49 (J.-M. Sauget).</quote>
                     <bibl xml:id="bib13-14">
                         <author>
                             <persName>
-                                <forename>S.P.</forename>
-                                <surname>Brock</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>The Luminous Eye : the Spiritual World Vision of St Ephrem the
@@ -553,11 +547,11 @@ BS, IV, 944-49 (J.-M. Sauget).</quote>
                     <bibl xml:id="bib13-15">
                         <author>
                             <persName>
-                                <forename>J.-M.</forename>
-                                <surname>Sauget</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BS</title>
+                        <ptr target="http://syriaca.org/bibl/1425"/>
                         <citedRange>IV,
                944-49</citedRange>
                     </bibl>

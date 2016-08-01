@@ -58,7 +58,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -214,8 +214,7 @@ BSO, I, 9- 10 (J. Rabbi).</quote>
                     <bibl xml:id="bib1420-3">
                         <author>
                             <persName>
-                                <forename>H.</forename>
-                                <surname>Feige</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Die Geschichte des Mar 'Abdh Īshō und sein Jungers Mar Qardāgh</title>
@@ -224,8 +223,7 @@ BSO, I, 9- 10 (J. Rabbi).</quote>
                     <bibl xml:id="bib1420-4">
                         <author>
                             <persName>
-                                <forename>J .B.</forename>
-                                <surname>Abbeloos</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Acta</title>
@@ -244,13 +242,13 @@ BSO, I, 9- 10 (J. Rabbi).</quote>
                     </bibl>
                     <bibl xml:id="bib1420-7">
                         <title>Šuhadā''</title>
+                        <ptr target="http://syriaca.org/bibl/1340"/>
                         <citedRange>I, 311-45</citedRange>
                     </bibl>
                     <bibl xml:id="bib1420-8">
                         <author>
                             <persName>
-                                <forename>P.</forename>
-                                <surname>Peeters</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a">Passionnaire</title>
@@ -260,7 +258,7 @@ BSO, I, 9- 10 (J. Rabbi).</quote>
                     <bibl xml:id="bib1420-9">
                         <author>
                             <persName>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a">Hakkari turc</title>
@@ -270,7 +268,7 @@ BSO, I, 9- 10 (J. Rabbi).</quote>
                     <bibl xml:id="bib1420-10">
                         <author>
                             <persName>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Assyrie chrétienne</title>
@@ -280,8 +278,7 @@ BSO, I, 9- 10 (J. Rabbi).</quote>
                     <bibl xml:id="bib1420-11">
                         <author>
                             <persName>
-                                <forename>G.</forename>
-                                <surname>Wiessner</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a">Christlicher Heiligenkult im Umkreis eines sassanidischen
@@ -290,8 +287,7 @@ BSO, I, 9- 10 (J. Rabbi).</quote>
                     <bibl xml:id="bib1420-12">
                         <author>
                             <persName>
-                                <forename>W.</forename>
-                                <surname>Eilers</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Festgabe deutscher Iranisten zur 2500 Jahrfeier Irans</title>
@@ -301,11 +297,11 @@ BSO, I, 9- 10 (J. Rabbi).</quote>
                     <bibl xml:id="bib1420-13">
                         <author>
                             <persName>
-                                <forename>J.</forename>
-                                <surname>Habbi</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BSO</title>
+                        <ptr target="http://syriaca.org/bibl/1426"/>
                         <citedRange>I, 9-10</citedRange>
                     </bibl>
                     <bibl xml:id="bib1420-14">

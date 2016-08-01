@@ -58,7 +58,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -224,7 +224,7 @@ BS, I, 77- 81 (G.M. Fusconi/S. Orienti).</quote>
                     <bibl xml:id="bib1258-5">
                         <author>
                             <persName>
-                                <surname>Burkitt</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Euphemia</title>
@@ -238,6 +238,7 @@ BS, I, 77- 81 (G.M. Fusconi/S. Orienti).</quote>
                     </bibl>
                     <bibl xml:id="bib1258-7">
                         <title>Šuhadā''</title>
+                        <ptr target="http://syriaca.org/bibl/1340"/>
                         <citedRange>I, 102-12</citedRange>
                     </bibl>
                     <bibl xml:id="bib1258-8">
@@ -259,7 +260,7 @@ BS, I, 77- 81 (G.M. Fusconi/S. Orienti).</quote>
                     <bibl xml:id="bib1258-11">
                         <author>
                             <persName>
-                                <surname>Segal</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Edessa</title>
@@ -269,11 +270,11 @@ BS, I, 77- 81 (G.M. Fusconi/S. Orienti).</quote>
                     <bibl xml:id="bib1258-12">
                         <author>
                             <persName>
-                                <forename>G.M.</forename>
-                                <surname>Fusconi</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BS</title>
+                        <ptr target="http://syriaca.org/bibl/1425"/>
                         <citedRange>I,
                   77-81</citedRange>
                     </bibl>

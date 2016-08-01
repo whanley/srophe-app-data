@@ -80,7 +80,7 @@
                                 License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">The Syriac Biographical Dictionary</title>
@@ -219,7 +219,7 @@ BS, IV, 251 (P. Gini).</quote>
                     <bibl xml:id="bib2443-6">
                         <author>
                             <persName>
-                                <surname>Honigmann</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Evêques et évêchés</title>
@@ -229,11 +229,11 @@ BS, IV, 251 (P. Gini).</quote>
                     <bibl xml:id="bib2443-7">
                         <author>
                             <persName>
-                                <forename>P.</forename>
-                                <surname>Gini</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BS</title>
+                        <ptr target="http://syriaca.org/bibl/1425"/>
                         <citedRange>IV, 251</citedRange>
                     </bibl>
                 </person>

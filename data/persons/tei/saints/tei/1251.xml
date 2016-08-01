@@ -91,7 +91,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">The Syriac Biographical Dictionary</title>
@@ -245,7 +245,7 @@ Sur le "Fort de l'Oubli", cf. Fiey, "Topography", 3-38.</quote>
                     <bibl xml:id="bib1251-3">
                         <author>
                             <persName>
-                                <surname>Peeters</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Golindouch</title>
@@ -255,33 +255,33 @@ Sur le "Fort de l'Oubli", cf. Fiey, "Topography", 3-38.</quote>
                     <bibl xml:id="bib1251-4">
                         <author>
                             <persName>
-                                <forename>G.</forename>
-                                <surname>Garitte</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>AB</title>
+                        <ptr target="http://syriaca.org/bibl/1406"/>
                         <citedRange>74 (1956),
                405-40</citedRange>
                     </bibl>
                     <bibl xml:id="bib1251-5">
                         <author>
                             <persName>
-                                <surname>Kekelidze</surname>
+                                <surname/>
                             </persName>
                         </author>
+                        <ptr target=""/>
                         <citedRange>(Tbilsi, 1955)</citedRange>
                     </bibl>
                     <bibl xml:id="bib1251-6">
                         <author>
                             <persName>
-                                <surname>Evagrius of Epiphanius</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Histoire ecclesiastique</title>
                         <author>
                             <persName>
-                                <forename>A.J.</forename>
-                                <surname>Festugiere</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Byzantion 45</title>
@@ -290,14 +290,13 @@ Sur le "Fort de l'Oubli", cf. Fiey, "Topography", 3-38.</quote>
                     <bibl xml:id="bib1251-7">
                         <author>
                             <persName>
-                                <surname>Theophylact Simocatta</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Histoire ecclesiastique</title>
                         <author>
                             <persName>
-                                <forename>A.J.</forename>
-                                <surname>Festugiere</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Byzantion 45</title>
@@ -306,7 +305,7 @@ Sur le "Fort de l'Oubli", cf. Fiey, "Topography", 3-38.</quote>
                     <bibl xml:id="bib1251-8">
                         <author>
                             <persName>
-                                <surname>Peeters</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Ex-voto</title>
@@ -316,10 +315,11 @@ Sur le "Fort de l'Oubli", cf. Fiey, "Topography", 3-38.</quote>
                     <bibl xml:id="bib1251-9">
                         <author>
                             <persName>
-                                <surname>Devos</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Sainte Sirin</title>
+                        <ptr target="http://syriaca.org/bibl/1357"/>
                         <citedRange>111 n. 1</citedRange>
                     </bibl>
                     <bibl xml:id="bib1251-10">
@@ -330,7 +330,7 @@ Sur le "Fort de l'Oubli", cf. Fiey, "Topography", 3-38.</quote>
                     <bibl xml:id="bib1251-11">
                         <author>
                             <persName>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Hagiographie</title>
@@ -340,11 +340,11 @@ Sur le "Fort de l'Oubli", cf. Fiey, "Topography", 3-38.</quote>
                     <bibl xml:id="bib1251-12">
                         <author>
                             <persName>
-                                <forename>J.M.</forename>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BSO</title>
+                        <ptr target="http://syriaca.org/bibl/1426"/>
                         <citedRange>II,
                72-73</citedRange>
                     </bibl>
@@ -352,7 +352,7 @@ Sur le "Fort de l'Oubli", cf. Fiey, "Topography", 3-38.</quote>
                         <title>Fort de l'Oubli</title>
                         <author>
                             <persName>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Topography</title>

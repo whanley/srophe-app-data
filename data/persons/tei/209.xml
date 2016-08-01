@@ -104,7 +104,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">The Syriac Biographical Dictionary</title>
@@ -284,8 +284,7 @@ Ses canons : Vi:ii:ibus, Sammlungen, 104.</quote>
                     <bibl xml:id="bib209-1">
                         <author>
                             <persName>
-                                <forename>S. P.</forename>
-                                <surname>Brock</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a" xml:lang="en">Yuḥanon of Mardin</title>
@@ -328,11 +327,11 @@ Ses canons : Vi:ii:ibus, Sammlungen, 104.</quote>
                     <bibl xml:id="bib209-8">
                         <author>
                             <persName>
-                                <forename>J.M.</forename>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BSO</title>
+                        <ptr target="http://syriaca.org/bibl/1426"/>
                         <citedRange>I,
                1147</citedRange>
                     </bibl>
@@ -343,7 +342,7 @@ Ses canons : Vi:ii:ibus, Sammlungen, 104.</quote>
                     <bibl xml:id="bib209-10">
                         <author>
                             <persName>
-                                <surname>Vööbus</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Sammlungen</title>

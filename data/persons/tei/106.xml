@@ -104,7 +104,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">The Syriac Biographical Dictionary</title>
@@ -284,8 +284,7 @@ BSO, II, 1017 (J.M. Fiey) .</quote>
                     <bibl xml:id="bib106-1">
                         <author>
                             <persName>
-                                <forename>L.</forename>
-                                <surname>Van Rompay</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a" xml:lang="en">Severos bar Mashqo</title>
@@ -323,16 +322,17 @@ BSO, II, 1017 (J.M. Fiey) .</quote>
                     <bibl xml:id="bib106-7">
                         <author>
                             <persName>
-                                <surname>Barsaum</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Lu'lu' 2</title>
+                        <ptr target="http://syriaca.org/bibl/1386"/>
                         <citedRange>359</citedRange>
                     </bibl>
                     <bibl xml:id="bib106-8">
                         <author>
                             <persName>
-                                <surname>Mounayer</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Synodes</title>
@@ -342,7 +342,7 @@ BSO, II, 1017 (J.M. Fiey) .</quote>
                     <bibl xml:id="bib106-9">
                         <author>
                             <persName>
-                                <surname>Vööbus</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Sammlungen</title>
@@ -352,11 +352,11 @@ BSO, II, 1017 (J.M. Fiey) .</quote>
                     <bibl xml:id="bib106-10">
                         <author>
                             <persName>
-                                <forename>J.M.</forename>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BSO</title>
+                        <ptr target="http://syriaca.org/bibl/1426"/>
                         <citedRange>II,
                1017</citedRange>
                     </bibl>

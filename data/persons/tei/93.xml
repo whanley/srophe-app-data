@@ -104,7 +104,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">The Syriac Biographical Dictionary</title>
@@ -284,8 +284,7 @@ BSO, II, 447- 48 (J.M. Fiey).</quote>
                     <bibl xml:id="bib93-1">
                         <author>
                             <persName>
-                                <forename>S. P.</forename>
-                                <surname>Brock</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a" xml:lang="en">Marutha of Tagrit</title>
@@ -328,7 +327,7 @@ BSO, II, 447- 48 (J.M. Fiey).</quote>
                     <bibl xml:id="bib93-8">
                         <author>
                             <persName>
-                                <surname>Nau</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Histoire de ... Maruta</title>
@@ -343,8 +342,7 @@ BSO, II, 447- 48 (J.M. Fiey).</quote>
                     <bibl xml:id="bib93-10">
                         <author>
                             <persName>
-                                <forename>J.M.</forename>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>OS</title>
@@ -353,11 +351,11 @@ BSO, II, 447- 48 (J.M. Fiey).</quote>
                     <bibl xml:id="bib93-11">
                         <author>
                             <persName>
-                                <forename>J.M.</forename>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BSO</title>
+                        <ptr target="http://syriaca.org/bibl/1426"/>
                         <citedRange>II,
                447-48</citedRange>
                     </bibl>

@@ -46,7 +46,7 @@
                                 License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -201,7 +201,7 @@
                     <bibl xml:id="bib2253-6">
                         <author>
                             <persName>
-                                <surname>Devreesse</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Antioche</title>

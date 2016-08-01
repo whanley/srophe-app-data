@@ -100,7 +100,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">The Syriac Biographical Dictionary</title>
@@ -290,8 +290,7 @@ BSO, I, 1187 (J.M. Fiey).</quote>
                     <bibl xml:id="bib50-1">
                         <author>
                             <persName>
-                                <forename>V.</forename>
-                                <surname>Menze</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a" xml:lang="en">Yuḥanon of Tella</title>
@@ -334,7 +333,7 @@ BSO, I, 1187 (J.M. Fiey).</quote>
                     <bibl xml:id="bib50-8">
                         <author>
                             <persName>
-                                <surname>Nau</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>"Littérature canonique"</title>
@@ -343,7 +342,7 @@ BSO, I, 1187 (J.M. Fiey).</quote>
                     <bibl xml:id="bib50-9">
                         <author>
                             <persName>
-                                <surname>Vööbus</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title> Sammlungen</title>
@@ -353,7 +352,7 @@ BSO, I, 1187 (J.M. Fiey).</quote>
                     <bibl xml:id="bib50-10">
                         <author>
                             <persName>
-                                <surname>Elie</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Vita</title>
@@ -364,30 +363,32 @@ BSO, I, 1187 (J.M. Fiey).</quote>
                     <bibl xml:id="bib50-11">
                         <author>
                             <persName>
-                                <surname>John of Ephesus</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Lives</title>
                         <title> PO</title>
+                        <ptr target="http://syriaca.org/bibl/1409"/>
                         <citedRange>XVIII.4 (1924), 311-24 n° 24</citedRange>
                     </bibl>
                     <bibl xml:id="bib50-12">
                         <author>
                             <persName>
-                                <surname>Barsaum</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Lu 'lu' 2</title>
+                        <ptr target="http://syriaca.org/bibl/1386"/>
                         <citedRange>294-96</citedRange>
                     </bibl>
                     <bibl xml:id="bib50-13">
                         <author>
                             <persName>
-                                <forename>J.M.</forename>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BSO</title>
+                        <ptr target="http://syriaca.org/bibl/1426"/>
                         <citedRange>I,
                1187</citedRange>
                     </bibl>

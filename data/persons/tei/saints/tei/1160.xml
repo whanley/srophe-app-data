@@ -56,7 +56,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -189,7 +189,7 @@ BSO, I, 337 (J.M. Fiey).</quote>
                         <note>There was a church in his name in Ḥāḥ.</note>
                         <author>
                             <persName>
-                                <surname>Peeters</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Martyrologe</title>
@@ -200,11 +200,11 @@ BSO, I, 337 (J.M. Fiey).</quote>
                     <bibl xml:id="bib1160-4">
                         <author>
                             <persName>
-                                <forename>J.M.</forename>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BSO</title>
+                        <ptr target="http://syriaca.org/bibl/1426"/>
                         <citedRange>I, 337</citedRange>
                     </bibl>
                 </person>

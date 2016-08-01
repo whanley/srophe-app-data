@@ -106,7 +106,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">The Syriac Biographical Dictionary</title>
@@ -210,6 +210,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2016-07-31-04:00">Add bibl ptr elements.</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2016-07-27-04:00">Split names in authors into forename and surname.</change>
             <change who="http://syriaca.org/documentation/editors.xml#ngibson" when="2016-06-14+02:00" xml:id="change370-1">Merged in data from [http://syriaca.org/person/1163].</change>
             <change who="http://syriaca.org/documentation/editors.xml#ngibson" when="2016-05-13+02:00">CHANGED: Corrected swapped source attributes for data from Fiey and Zanetti [http://syriaca.org/person/1163]</change>
@@ -281,8 +282,7 @@ V. surtout : Honigmann, Bar$aumii, 6- 23 ; H. Kaufhold, dans Hugoye 3 (2000).</q
                     <bibl xml:id="bib370-1">
                         <author>
                             <persName>
-                                <forename>L.</forename>
-                                <surname>Van Rompay</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a" xml:lang="en">Barṣawmo</title>
@@ -325,7 +325,7 @@ V. surtout : Honigmann, Bar$aumii, 6- 23 ; H. Kaufhold, dans Hugoye 3 (2000).</q
                         <note>See the Life of Barsaum, with his 99 or 100 miracles, written in about 550-61.</note>
                         <author>
                             <persName>
-                                <surname>Nau</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>"Résumé"</title>
@@ -335,8 +335,7 @@ V. surtout : Honigmann, Bar$aumii, 6- 23 ; H. Kaufhold, dans Hugoye 3 (2000).</q
                         <note>Ethiopic verion</note>
                         <author>
                             <persName>
-                                <forename>S.</forename>
-                                <surname>Grebaut</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>ROC</title>
@@ -345,39 +344,39 @@ V. surtout : Honigmann, Bar$aumii, 6- 23 ; H. Kaufhold, dans Hugoye 3 (2000).</q
                     <bibl xml:id="bib370-10">
                         <author>
                             <persName>
-                                <forename>G.</forename>
-                                <surname>Bardy</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>DHGE</title>
+                        <ptr target="http://syriaca.org/bibl/1381"/>
                         <citedRange>s.v. Barsauma 1, VI, col.
                   946-47</citedRange>
                     </bibl>
                     <bibl xml:id="bib370-11">
                         <author>
                             <persName>
-                                <forename>J.-M.</forename>
-                                <surname>Sauget</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BS</title>
+                        <ptr target="http://syriaca.org/bibl/1425"/>
                         <citedRange>II,
                842</citedRange>
                     </bibl>
                     <bibl xml:id="bib370-12">
                         <author>
                             <persName>
-                                <surname>Honigmann</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Barṣaumā</title>
+                        <ptr target="http://syriaca.org/bibl/1408"/>
                         <citedRange>6-23</citedRange>
                     </bibl>
                     <bibl xml:id="bib370-13">
                         <author>
                             <persName>
-                                <forename>H.</forename>
-                                <surname>Kaufhold</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Hugoye</title>

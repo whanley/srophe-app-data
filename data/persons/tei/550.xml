@@ -101,7 +101,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">The Syriac Biographical Dictionary</title>
@@ -296,8 +296,7 @@ BSO, II, 245- 46 (J.M. Fiey).</quote>
                     <bibl xml:id="bib550-1">
                         <author>
                             <persName>
-                                <forename>S. P.</forename>
-                                <surname>Brock</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a" xml:lang="en">Isḥaq of Nineveh</title>
@@ -349,8 +348,7 @@ BSO, II, 245- 46 (J.M. Fiey).</quote>
                     <bibl xml:id="bib550-10">
                         <author>
                             <persName>
-                                <forename>J.-B.</forename>
-                                <surname>Chabot</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>De sancti Isaaci Ninivite vita, scriptis et doctrina</title>
@@ -370,8 +368,7 @@ BSO, II, 245- 46 (J.M. Fiey).</quote>
                     <bibl xml:id="bib550-13">
                         <author>
                             <persName>
-                                <forename>A.J.</forename>
-                                <surname>Wensinck</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Mystic Treatises by Isaac of Ninive </title>
@@ -379,8 +376,7 @@ BSO, II, 245- 46 (J.M. Fiey).</quote>
                     <bibl xml:id="bib550-14">
                         <author>
                             <persName>
-                                <forename>S.</forename>
-                                <surname>Chiala</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Dall'ascesi eremitica alla misericordia infinita. Ricerche su Isacco di
@@ -390,11 +386,11 @@ BSO, II, 245- 46 (J.M. Fiey).</quote>
                     <bibl xml:id="bib550-15">
                         <author>
                             <persName>
-                                <forename>J.M.</forename>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BSO</title>
+                        <ptr target="http://syriaca.org/bibl/1426"/>
                         <citedRange>II,
                245-46</citedRange>
                     </bibl>

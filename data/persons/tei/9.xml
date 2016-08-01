@@ -100,7 +100,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">The Syriac Biographical Dictionary</title>
@@ -297,8 +297,7 @@
                     <bibl xml:id="bib9-1">
                         <author>
                             <persName>
-                                <forename>L.</forename>
-                                <surname>Van Rompay</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a" xml:lang="en">Shemʿon bar Ṣabbaʿe</title>
@@ -352,8 +351,7 @@
                     <bibl xml:id="bib9-10">
                         <author>
                             <persName>
-                                <forename>M.</forename>
-                                <surname>Kmosko</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>PS</title>
@@ -373,16 +371,17 @@
                     <bibl xml:id="bib9-13">
                         <author>
                             <persName>
-                                <surname>Assemani</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>ASMO</title>
+                        <ptr target="http://syriaca.org/bibl/1374"/>
                         <citedRange>I, 10</citedRange>
                     </bibl>
                     <bibl xml:id="bib9-14">
                         <author>
                             <persName>
-                                <surname>Lagrange</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <ptr target="http://syriaca.org/bibl/1364"/>
@@ -391,7 +390,7 @@
                     <bibl xml:id="bib9-15">
                         <author>
                             <persName>
-                                <surname>Leclercq</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <ptr target="http://syriaca.org/bibl/1375"/>
@@ -410,8 +409,7 @@
                     <bibl xml:id="bib9-18">
                         <author>
                             <persName>
-                                <forename>P.</forename>
-                                <surname>Devos</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>"Sozomene et les Actes syriaques de S. Symeon bar Sabba'e"</title>
@@ -422,20 +420,21 @@
                     <bibl xml:id="bib9-19">
                         <author>
                             <persName>
-                                <surname>Wiessner</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Märtyrer</title>
+                        <ptr target="http://syriaca.org/bibl/1332"/>
                         <citedRange>40-94</citedRange>
                     </bibl>
                     <bibl xml:id="bib9-20">
                         <author>
                             <persName>
-                                <forename>J.-M.</forename>
-                                <surname>Sauget</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BS</title>
+                        <ptr target="http://syriaca.org/bibl/1425"/>
                         <citedRange>XI,
                   1097-1100</citedRange>
                     </bibl>

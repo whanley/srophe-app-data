@@ -63,7 +63,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -212,7 +212,7 @@ Fiey, "Ma'In" , 437-53.</quote>
                     <bibl xml:id="bib1349-4">
                         <author>
                             <persName>
-                                <surname>Hoffmann</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Auszüge</title>
@@ -222,7 +222,7 @@ Fiey, "Ma'In" , 437-53.</quote>
                     <bibl xml:id="bib1349-5">
                         <author>
                             <persName>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a">Ma'īn</title>

@@ -89,7 +89,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">The Syriac Biographical Dictionary</title>
@@ -255,8 +255,7 @@ BSO, II, 917-18 (J.M. Fiey) .</quote>
                     <bibl xml:id="bib709-1">
                         <author>
                             <persName>
-                                <forename>L.</forename>
-                                <surname>Van Rompay</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a" xml:lang="en">Sabrishoʿ bar Pawlos</title>
@@ -283,7 +282,7 @@ BSO, II, 917-18 (J.M. Fiey) .</quote>
                     <bibl xml:id="bib709-5">
                         <author>
                             <persName>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Assyrie chrétienne</title>
@@ -293,11 +292,11 @@ BSO, II, 917-18 (J.M. Fiey) .</quote>
                     <bibl xml:id="bib709-6">
                         <author>
                             <persName>
-                                <forename>J.M.</forename>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BSO</title>
+                        <ptr target="http://syriaca.org/bibl/1426"/>
                         <citedRange>II,
                917-18</citedRange>
                     </bibl>

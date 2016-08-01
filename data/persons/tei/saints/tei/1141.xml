@@ -57,7 +57,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -192,7 +192,7 @@ BSO, I, 703 (J.M. Fiey).</quote>
                     <bibl xml:id="bib1141-3">
                         <author>
                             <persName>
-                                <surname>Peeters</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Martyrologe</title>
@@ -201,12 +201,13 @@ BSO, I, 703 (J.M. Fiey).</quote>
                     </bibl>
                     <bibl xml:id="bib1141-4">
                         <title>DHGE</title>
+                        <ptr target="http://syriaca.org/bibl/1381"/>
                         <citedRange>IV, col. 1365, s.v. Athanase IV</citedRange>
                     </bibl>
                     <bibl xml:id="bib1141-5">
                         <author>
                             <persName>
-                                <surname>Palmer</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Monk and Mason</title>
@@ -216,11 +217,11 @@ BSO, I, 703 (J.M. Fiey).</quote>
                     <bibl xml:id="bib1141-6">
                         <author>
                             <persName>
-                                <forename>J.M.</forename>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BSO</title>
+                        <ptr target="http://syriaca.org/bibl/1426"/>
                         <citedRange>I, 703</citedRange>
                     </bibl>
                 </person>

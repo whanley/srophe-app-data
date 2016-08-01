@@ -101,7 +101,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">The Syriac Biographical Dictionary</title>
@@ -307,8 +307,7 @@ BS, XI, 1116- 38 (D . Stiernon).</quote>
                     <bibl xml:id="bib744-1">
                         <author>
                             <persName>
-                                <forename>R.</forename>
-                                <surname>Doran</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a" xml:lang="en">Shemʿun the Stylite</title>
@@ -360,8 +359,7 @@ BS, XI, 1116- 38 (D . Stiernon).</quote>
                     <bibl xml:id="bib744-10">
                         <author>
                             <persName>
-                                <forename>S.</forename>
-                                <surname>Ashbrook Harvey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>VC</title>
@@ -370,8 +368,7 @@ BS, XI, 1116- 38 (D . Stiernon).</quote>
                     <bibl xml:id="bib744-11">
                         <author>
                             <persName>
-                                <forename>R.</forename>
-                                <surname>Doran</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title> The Lives of Simeon
@@ -381,11 +378,11 @@ BS, XI, 1116- 38 (D . Stiernon).</quote>
                     <bibl xml:id="bib744-12">
                         <author>
                             <persName>
-                                <forename>D .</forename>
-                                <surname>Stiernon</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BS</title>
+                        <ptr target="http://syriaca.org/bibl/1425"/>
                         <citedRange>XI,
                1116-38</citedRange>
                     </bibl>

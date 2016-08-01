@@ -89,7 +89,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">The Syriac Biographical Dictionary</title>
@@ -271,8 +271,7 @@ BSO, I, 26- 28 (J. Rabbi).</quote>
                     <bibl xml:id="bib320-1">
                         <author>
                             <persName>
-                                <forename>L.</forename>
-                                <surname>Van Rompay</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a" xml:lang="en">Abraham of Kashkar</title>
@@ -298,22 +297,25 @@ BSO, I, 26- 28 (J. Rabbi).</quote>
                     </bibl>
                     <bibl xml:id="bib320-5">
                         <title>Liber Castatis </title>
+                        <ptr target="http://syriaca.org/bibl/1310"/>
                     </bibl>
                     <bibl xml:id="bib320-6">
                         <author>
                             <persName>
-                                <surname>Thomas of Marga</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Liber superiorum</title>
+                        <ptr target="http://syriaca.org/bibl/1361"/>
                         <citedRange>I.4</citedRange>
                     </bibl>
                     <bibl xml:id="bib320-7">
                         <author>
                             <persName>
-                                <surname>Mārī ibn Sulaymān</surname>
+                                <surname/>
                             </persName>
                         </author>
+                        <ptr target=""/>
                         <citedRange>47 arabe</citedRange>
                     </bibl>
                     <bibl xml:id="bib320-8">
@@ -329,27 +331,30 @@ BSO, I, 26- 28 (J. Rabbi).</quote>
                     </bibl>
                     <bibl xml:id="bib320-10">
                         <title>History of Rabban bar 'Idta</title>
+                        <ptr target="http://syriaca.org/bibl/1348"/>
                         <citedRange>ROC 11 [1906], 406-408</citedRange>
                     </bibl>
                     <bibl xml:id="bib320-11">
                         <note>His rules were edited in Syriac and translated into English</note>
                         <editor>Vööbus</editor>
                         <title>Syriac and Arabic Documents Regarding Legislation Relative to Syrian Asceticism</title>
+                        <ptr target="http://syriaca.org/bibl/1330"/>
                         <citedRange>1960, 150-62</citedRange>
                     </bibl>
                     <bibl xml:id="bib320-12">
                         <note>Summary in</note>
                         <title>DHGE</title>
+                        <ptr target="http://syriaca.org/bibl/1381"/>
                         <citedRange>I, col. 174-75</citedRange>
                     </bibl>
                     <bibl xml:id="bib320-13">
                         <author>
                             <persName>
-                                <forename>J.</forename>
-                                <surname>Habbi</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BSO</title>
+                        <ptr target="http://syriaca.org/bibl/1426"/>
                         <citedRange>I,
                26-28</citedRange>
                     </bibl>

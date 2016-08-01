@@ -58,7 +58,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -223,12 +223,13 @@ BS, II, 838- 39 (J.-M. Sauget).</quote>
                     </bibl>
                     <bibl xml:id="bib1162-5">
                         <title>Šuhadā''</title>
+                        <ptr target="http://syriaca.org/bibl/1340"/>
                         <citedRange>I, 62-68</citedRange>
                     </bibl>
                     <bibl xml:id="bib1162-6">
                         <author>
                             <persName>
-                                <surname>Cureton</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Documents</title>
@@ -238,8 +239,7 @@ BS, II, 838- 39 (J.-M. Sauget).</quote>
                     <bibl xml:id="bib1162-7">
                         <author>
                             <persName>
-                                <forename>R.</forename>
-                                <surname>Duval</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a">Les actes de Scharbil et de Barsamya</title>
@@ -251,8 +251,7 @@ BS, II, 838- 39 (J.-M. Sauget).</quote>
                     <bibl xml:id="bib1162-8">
                         <author>
                             <persName>
-                                <forename>R.</forename>
-                                <surname>Duval</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a">Histoire d'Edesse</title>
@@ -261,16 +260,17 @@ BS, II, 838- 39 (J.-M. Sauget).</quote>
                     </bibl>
                     <bibl xml:id="bib1162-9">
                         <title>AB</title>
+                        <ptr target="http://syriaca.org/bibl/1406"/>
                         <citedRange>10 (1891), 479</citedRange>
                     </bibl>
                     <bibl xml:id="bib1162-10">
                         <author>
                             <persName>
-                                <forename>R.</forename>
-                                <surname>Janin</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>DHGE</title>
+                        <ptr target="http://syriaca.org/bibl/1381"/>
                         <citedRange>VI, col.
                944</citedRange>
                     </bibl>
@@ -282,7 +282,7 @@ BS, II, 838- 39 (J.-M. Sauget).</quote>
                     <bibl xml:id="bib1162-12">
                         <author>
                             <persName>
-                                <surname>Segal</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Edessa</title>
@@ -292,18 +292,18 @@ BS, II, 838- 39 (J.-M. Sauget).</quote>
                     <bibl xml:id="bib1162-13">
                         <author>
                             <persName>
-                                <forename>J.-M.</forename>
-                                <surname>Sauget</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BS</title>
+                        <ptr target="http://syriaca.org/bibl/1425"/>
                         <citedRange>II,
                838-39</citedRange>
                     </bibl>
                     <bibl xml:id="bib1162-14">
                         <author>
                             <persName>
-                                <surname>Lutz Greisiger</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a">Barsamyā, Märtyrer in Edessa</title>
@@ -314,7 +314,7 @@ BS, II, 838- 39 (J.-M. Sauget).</quote>
                     <bibl xml:id="bib1162-15">
                         <author>
                             <persName>
-                                <surname>Jürgen Tubach</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>'Die Personennamen in den Akten der edessenischen Märtyrer Šarbēl und Bar Sāmyā'</title>

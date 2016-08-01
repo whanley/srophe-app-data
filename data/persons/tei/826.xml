@@ -101,7 +101,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">The Syriac Biographical Dictionary</title>
@@ -301,8 +301,7 @@ BSO, I, 1122- 23 (J. Rabbi).</quote>
                     <bibl xml:id="bib826-1">
                         <author>
                             <persName>
-                                <forename>B.</forename>
-                                <surname>Colless</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a" xml:lang="en">Yoḥannan of Dalyatha</title>
@@ -360,7 +359,7 @@ BSO, I, 1122- 23 (J. Rabbi).</quote>
                     <bibl xml:id="bib826-11">
                         <author>
                             <persName>
-                                <surname>Rahmani</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Studia syriaca</title>
@@ -375,8 +374,7 @@ BSO, I, 1122- 23 (J. Rabbi).</quote>
                     <bibl xml:id="bib826-13">
                         <author>
                             <persName>
-                                <forename>R.</forename>
-                                <surname>Beulay</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>"Précisions touchant l'identité et la biographie de Jean Saba de
@@ -387,8 +385,7 @@ BSO, I, 1122- 23 (J. Rabbi).</quote>
                     <bibl xml:id="bib826-14">
                         <author>
                             <persName>
-                                <forename>R.</forename>
-                                <surname>Beulay</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>L 'enseignement spirituel de Jean de Dalyatha</title>
@@ -397,11 +394,11 @@ BSO, I, 1122- 23 (J. Rabbi).</quote>
                     <bibl xml:id="bib826-15">
                         <author>
                             <persName>
-                                <forename>J.</forename>
-                                <surname>Habbi</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BSO</title>
+                        <ptr target="http://syriaca.org/bibl/1426"/>
                         <citedRange>I,
                1122-23</citedRange>
                     </bibl>

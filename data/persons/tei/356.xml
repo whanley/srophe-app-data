@@ -106,7 +106,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">The Syriac Biographical Dictionary</title>
@@ -309,8 +309,7 @@ N. Sims-Williams, in Elr , IX (1999), 64.</quote>
                     <bibl xml:id="bib356-1">
                         <author>
                             <persName>
-                                <forename>E. G.</forename>
-                                <surname>Mathews, Jr</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a" xml:lang="en">Awgen, Mar</title>
@@ -364,7 +363,7 @@ N. Sims-Williams, in Elr , IX (1999), 64.</quote>
                         <note>List of his disciples (of which some of them, like John bar Kaldūn, were made in the tenth century) in</note>
                         <author>
                             <persName>
-                                <surname>Budge</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Governors </title>
@@ -374,19 +373,18 @@ N. Sims-Williams, in Elr , IX (1999), 64.</quote>
                     <bibl xml:id="bib356-11">
                         <author>
                             <persName>
-                                <forename>A.</forename>
-                                <surname>van Roey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>DHGE</title>
+                        <ptr target="http://syriaca.org/bibl/1381"/>
                         <citedRange>XV, col. 1359-60, s.v.
                   Eugene</citedRange>
                     </bibl>
                     <bibl xml:id="bib356-12">
                         <author>
                             <persName>
-                                <forename>J.M.</forename>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>"Aones, Awua et Awgia (Eugene)" </title>
@@ -395,7 +393,7 @@ N. Sims-Williams, in Elr , IX (1999), 64.</quote>
                     <bibl xml:id="bib356-13">
                         <author>
                             <persName>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Jalons</title>
@@ -405,7 +403,7 @@ N. Sims-Williams, in Elr , IX (1999), 64.</quote>
                     <bibl xml:id="bib356-14">
                         <author>
                             <persName>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title> Nisibe</title>
@@ -415,19 +413,18 @@ N. Sims-Williams, in Elr , IX (1999), 64.</quote>
                     <bibl xml:id="bib356-15">
                         <author>
                             <persName>
-                                <forename>J.</forename>
-                                <surname>Habbi</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BSO</title>
+                        <ptr target="http://syriaca.org/bibl/1426"/>
                         <citedRange>I,
                325-26</citedRange>
                     </bibl>
                     <bibl xml:id="bib356-16">
                         <author>
                             <persName>
-                                <forename>N.</forename>
-                                <surname>Sims-Williams</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Eugenius</title>

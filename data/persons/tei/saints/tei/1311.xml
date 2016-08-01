@@ -57,7 +57,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -203,7 +203,7 @@ BS, VI, 353 (J.-M. Sauget).</quote>
                         <note>References and details on the life of the monastery, situated at Lower Dera, north of the Tigris, is from Finik.</note>
                         <author>
                             <persName>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Nisibe</title>
@@ -213,11 +213,11 @@ BS, VI, 353 (J.-M. Sauget).</quote>
                     <bibl xml:id="bib1311-4">
                         <author>
                             <persName>
-                                <forename>J.-M.</forename>
-                                <surname>Sauget</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BS</title>
+                        <ptr target="http://syriaca.org/bibl/1425"/>
                         <citedRange>VI,
                353</citedRange>
                     </bibl>

@@ -57,7 +57,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -197,8 +197,7 @@ Marl, 27 arabe.</quote>
                     <bibl xml:id="bib1165-5">
                         <author>
                             <persName>
-                                <forename>J .M.</forename>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Le Museon</title>
@@ -207,19 +206,18 @@ Marl, 27 arabe.</quote>
                     <bibl xml:id="bib1165-6">
                         <author>
                             <persName>
-                                <forename>J.-M.</forename>
-                                <surname>Sauget</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BS</title>
+                        <ptr target="http://syriaca.org/bibl/1425"/>
                         <citedRange>II,
                836-37</citedRange>
                     </bibl>
                     <bibl xml:id="bib1165-7">
                         <author>
                             <persName>
-                                <forename>N.</forename>
-                                <surname>Sims-Williams</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Baršabba</title>
@@ -229,8 +227,7 @@ Marl, 27 arabe.</quote>
                     <bibl xml:id="bib1165-8">
                         <author>
                             <persName>
-                                <forename>S.P.</forename>
-                                <surname>Brock</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Bar Shabba/Mār Shabba, First Bishop of Merv</title>

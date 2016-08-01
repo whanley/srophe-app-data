@@ -56,7 +56,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -200,7 +200,7 @@ BS, I, 13 (B. Cignitti).</quote>
                         <note>Acts of these martyrs are contained in a MS in the Library of the Syrian Orthodox patriarchate as described in </note>
                         <author>
                             <persName>
-                                <surname>Barsaum</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Lu'lu</title>
@@ -211,7 +211,7 @@ BS, I, 13 (B. Cignitti).</quote>
                         <note>Acts of these martyrs are contained in MS Sachau 241 in Berlin</note>
                         <author>
                             <persName>
-                                <surname>Sachau</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Catalogue</title>
@@ -221,7 +221,7 @@ BS, I, 13 (B. Cignitti).</quote>
                     <bibl xml:id="bib1093-4">
                         <author>
                             <persName>
-                                <surname>Madden</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Catalogue</title>
@@ -230,7 +230,7 @@ BS, I, 13 (B. Cignitti).</quote>
                     <bibl xml:id="bib1093-5">
                         <author>
                             <persName>
-                                <surname>Peeters</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Martyrologe</title>
@@ -240,7 +240,7 @@ BS, I, 13 (B. Cignitti).</quote>
                     <bibl xml:id="bib1093-6">
                         <author>
                             <persName>
-                                <surname>Barsaum</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Lu'lu</title>
@@ -250,11 +250,11 @@ BS, I, 13 (B. Cignitti).</quote>
                     <bibl xml:id="bib1093-7">
                         <author>
                             <persName>
-                                <forename>B.</forename>
-                                <surname>Cignitti</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BS</title>
+                        <ptr target="http://syriaca.org/bibl/1425"/>
                         <citedRange>I, 13</citedRange>
                     </bibl>
                 </person>

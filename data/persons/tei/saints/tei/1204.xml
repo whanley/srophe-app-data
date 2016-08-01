@@ -57,7 +57,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -191,7 +191,7 @@ Palmer, Monk and Mason, 196 n° 9.</quote>
                     <bibl xml:id="bib1204-3">
                         <author>
                             <persName>
-                                <surname>Nau</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Notice</title>
@@ -201,7 +201,7 @@ Palmer, Monk and Mason, 196 n° 9.</quote>
                     <bibl xml:id="bib1204-4">
                         <author>
                             <persName>
-                                <surname>Palmer</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Monk and Mason</title>

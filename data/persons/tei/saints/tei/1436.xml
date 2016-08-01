@@ -58,7 +58,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -215,12 +215,13 @@
                     </bibl>
                     <bibl xml:id="bib1436-5">
                         <title>Šuhadā''</title>
+                        <ptr target="http://syriaca.org/bibl/1340"/>
                         <citedRange>I, 398-415</citedRange>
                     </bibl>
                     <bibl xml:id="bib1436-6">
                         <author>
                             <persName>
-                                <surname>Hoffmann</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Auszüge</title>
@@ -230,7 +231,7 @@
                     <bibl xml:id="bib1436-7">
                         <author>
                             <persName>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Nisibe</title>
@@ -240,11 +241,11 @@
                     <bibl xml:id="bib1436-8">
                         <author>
                             <persName>
-                                <forename>J.-M.</forename>
-                                <surname>Sauget</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BS</title>
+                        <ptr target="http://syriaca.org/bibl/1425"/>
                         <citedRange>XI,
                             535-36</citedRange>
                     </bibl>

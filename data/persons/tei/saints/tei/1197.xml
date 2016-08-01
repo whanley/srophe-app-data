@@ -57,7 +57,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -196,7 +196,7 @@ Histoire et legendes du couvent : Fiey, Assyrie chretienne, II, 615-20, avec ref
                     <bibl xml:id="bib1197-3">
                         <author>
                             <persName>
-                                <surname>Peeters</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Martyrologe</title>
@@ -206,18 +206,18 @@ Histoire et legendes du couvent : Fiey, Assyrie chretienne, II, 615-20, avec ref
                     <bibl xml:id="bib1197-4">
                         <author>
                             <persName>
-                                <forename>J .-M.</forename>
-                                <surname>Sauget</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BS</title>
+                        <ptr target="http://syriaca.org/bibl/1425"/>
                         <citedRange>IV,
                473</citedRange>
                     </bibl>
                     <bibl xml:id="bib1197-5">
                         <author>
                             <persName>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Assyrie chrétienne</title>

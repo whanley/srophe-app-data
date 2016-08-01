@@ -105,7 +105,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">The Syriac Biographical Dictionary</title>
@@ -338,7 +338,7 @@ BSCO, IX, 482- 84 (J.-M. Sauget).</quote>
                     <bibl xml:id="bib8-11">
                         <author>
                             <persName>
-                                <surname>Leclercq</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <ptr target="http://syriaca.org/bibl/1375"/>
@@ -352,7 +352,7 @@ BSCO, IX, 482- 84 (J.-M. Sauget).</quote>
                     <bibl xml:id="bib8-13">
                         <author>
                             <persName>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Jalons</title>
@@ -362,7 +362,7 @@ BSCO, IX, 482- 84 (J.-M. Sauget).</quote>
                     <bibl xml:id="bib8-14">
                         <author>
                             <persName>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>"Elam"</title>
@@ -371,8 +371,7 @@ BSCO, IX, 482- 84 (J.-M. Sauget).</quote>
                     <bibl xml:id="bib8-15">
                         <author>
                             <persName>
-                                <forename>J.-M.</forename>
-                                <surname>Sauget</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BSCO</title>

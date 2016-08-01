@@ -56,7 +56,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -198,8 +198,7 @@ S. Chauleur, Histoire des coptes d'Egypte (Paris, 1957), 46-47.</quote>
                     <bibl xml:id="bib1487-4">
                         <author>
                             <persName>
-                                <forename>F.</forename>
-                                <surname>Nau</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Revue sémitique</title>
@@ -209,8 +208,7 @@ S. Chauleur, Histoire des coptes d'Egypte (Paris, 1957), 46-47.</quote>
                     <bibl xml:id="bib1487-5">
                         <author>
                             <persName>
-                                <forename>M.</forename>
-                                <surname>de Fenoyl</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Le sanctoral copte</title>
@@ -219,8 +217,7 @@ S. Chauleur, Histoire des coptes d'Egypte (Paris, 1957), 46-47.</quote>
                     <bibl xml:id="bib1487-6">
                         <author>
                             <persName>
-                                <forename>S.</forename>
-                                <surname>Chauleur</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Histoire des coptes d'Egypte</title>

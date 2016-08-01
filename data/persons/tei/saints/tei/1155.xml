@@ -58,7 +58,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -215,16 +215,17 @@ BS, II, 690 (J .-M. Sauget).</quote>
                     <bibl xml:id="bib1155-5">
                         <author>
                             <persName>
-                                <surname>Assemani</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>ASMO</title>
+                        <ptr target="http://syriaca.org/bibl/1374"/>
                         <citedRange>165-67</citedRange>
                     </bibl>
                     <bibl xml:id="bib1155-6">
                         <author>
                             <persName>
-                                <surname>Lagrange</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <ptr target="http://syriaca.org/bibl/1364"/>
@@ -233,7 +234,7 @@ BS, II, 690 (J .-M. Sauget).</quote>
                     <bibl xml:id="bib1155-7">
                         <author>
                             <persName>
-                                <surname>Leclercq</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <ptr target="http://syriaca.org/bibl/1375"/>
@@ -241,13 +242,14 @@ BS, II, 690 (J .-M. Sauget).</quote>
                     </bibl>
                     <bibl xml:id="bib1155-8">
                         <title>Šuhadā''</title>
+                        <ptr target="http://syriaca.org/bibl/1340"/>
                         <citedRange>I, 368-71</citedRange>
                     </bibl>
                     <bibl xml:id="bib1155-9">
                         <note>Greek Acts</note>
                         <author>
                             <persName>
-                                <surname>Delehaye</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Actes</title>
@@ -257,22 +259,22 @@ BS, II, 690 (J .-M. Sauget).</quote>
                     <bibl xml:id="bib1155-10">
                         <author>
                             <persName>
-                                <forename>A.</forename>
-                                <surname>van Lantschoot</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>DHGE</title>
+                        <ptr target="http://syriaca.org/bibl/1381"/>
                         <citedRange>VI, col. 148,
                   s.v. Bademas</citedRange>
                     </bibl>
                     <bibl xml:id="bib1155-11">
                         <author>
                             <persName>
-                                <forename>J .-M.</forename>
-                                <surname>Sauget</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BS</title>
+                        <ptr target="http://syriaca.org/bibl/1425"/>
                         <citedRange>II,
                690</citedRange>
                     </bibl>

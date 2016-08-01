@@ -58,7 +58,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -213,12 +213,13 @@ Fiey, "Hagiographie", 458.</quote>
                     </bibl>
                     <bibl xml:id="bib1194-5">
                         <title>Šuhadā''</title>
+                        <ptr target="http://syriaca.org/bibl/1340"/>
                         <citedRange>I, 395-98</citedRange>
                     </bibl>
                     <bibl xml:id="bib1194-6">
                         <author>
                             <persName>
-                                <surname>Hoffmann</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Auszüge</title>
@@ -228,7 +229,7 @@ Fiey, "Hagiographie", 458.</quote>
                     <bibl xml:id="bib1194-7">
                         <author>
                             <persName>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a">Hagiographie</title>

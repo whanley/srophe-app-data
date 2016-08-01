@@ -58,7 +58,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -218,7 +218,7 @@ BS, I, 111- 12 (G. Lucchesi).</quote>
                     <bibl xml:id="bib1108-5">
                         <author>
                             <persName>
-                                <surname>Delehaye</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Actes</title>
@@ -233,7 +233,7 @@ BS, I, 111- 12 (G. Lucchesi).</quote>
                     <bibl xml:id="bib1108-7">
                         <author>
                             <persName>
-                                <surname>Peeters</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a">Passionnaire</title>
@@ -243,22 +243,22 @@ BS, I, 111- 12 (G. Lucchesi).</quote>
                     <bibl xml:id="bib1108-8">
                         <author>
                             <persName>
-                                <forename>S.</forename>
-                                <surname>Vailhe</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>DHGE</title>
+                        <ptr target="http://syriaca.org/bibl/1381"/>
                         <citedRange>I, col. 161, s.v.
                   l.Abraham</citedRange>
                     </bibl>
                     <bibl xml:id="bib1108-9">
                         <author>
                             <persName>
-                                <forename>G.</forename>
-                                <surname>Lucchesi</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BS</title>
+                        <ptr target="http://syriaca.org/bibl/1425"/>
                         <citedRange>I,
                111-12</citedRange>
                     </bibl>

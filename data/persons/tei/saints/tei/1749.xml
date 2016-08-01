@@ -61,7 +61,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">The Syriac Biographical Dictionary</title>
@@ -300,8 +300,7 @@
                     <bibl xml:id="bib1749-2">
                         <author>
                             <persName>
-                                <forename>E. W.</forename>
-                                <surname>Brooks</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Acts of S. George</title>
@@ -316,7 +315,7 @@
                     <bibl xml:id="bib1749-4">
                         <author>
                             <persName>
-                                <surname>Mat Immerzeel</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Holy Horsemen and Crusader Banners: Equestrian Saints in Wall Paintings in Lebanon and Syria
@@ -327,7 +326,7 @@
                     <bibl xml:id="bib1749-5">
                         <author>
                             <persName>
-                                <surname>Marlène Kanaan</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>                            "Legends, Places and Traditions Related to the Cult of Saint George in Lebanon"
@@ -338,7 +337,7 @@
                     <bibl xml:id="bib1749-6">
                         <author>
                             <persName>
-                                <surname>George Anton Kiraz</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>The Acts of St. George and the Story of his Father from the Syriac and Garshuni Versions</title>
@@ -349,7 +348,7 @@
                     <bibl xml:id="bib1749-7">
                         <author>
                             <persName>
-                                <surname>Miklós Maróth</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a">Eine unbekannte Version der Georgios-Legende aus Turfan</title>
@@ -359,7 +358,7 @@
                     <bibl xml:id="bib1749-8">
                         <author>
                             <persName>
-                                <surname>Bas Snelders</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a">A Newly Discovered Wall Painting in the Church of Mar Giworgis in Qaraqosh, Iraq"  
@@ -370,7 +369,7 @@
                     <bibl xml:id="bib1749-9">
                         <author>
                             <persName>
-                                <surname>Ethel Sara Wolper</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>                            "Khidr and the Politics of Translation in Mosul: Mar Behnam, St George and Khidr Ilyas"

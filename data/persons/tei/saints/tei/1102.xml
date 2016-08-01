@@ -63,7 +63,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -218,8 +218,7 @@ Fiey, "Hagiographie", 461-62.</quote>
                         <note>The primary texts (Syriac, Armenien, Arabic) and the studies are indicated in</note>
                         <author>
                             <persName>
-                                <forename>J. .M.</forename>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Muséon</title>
@@ -228,19 +227,18 @@ Fiey, "Hagiographie", 461-62.</quote>
                     <bibl xml:id="bib1102-4">
                         <author>
                             <persName>
-                                <forename>M.</forename>
-                                <surname>Japundžić</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BS</title>
+                        <ptr target="http://syriaca.org/bibl/1425"/>
                         <citedRange>I,
                48-49</citedRange>
                     </bibl>
                     <bibl xml:id="bib1102-5">
                         <author>
                             <persName>
-                                <forename>J. M.</forename>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a">Hagiographie</title>

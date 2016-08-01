@@ -58,7 +58,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -217,16 +217,17 @@ Wiessner, Miirtyrer, 128-44.</quote>
                     <bibl xml:id="bib1148-5">
                         <author>
                             <persName>
-                                <surname>Assemani</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>ASMO</title>
+                        <ptr target="http://syriaca.org/bibl/1374"/>
                         <citedRange>45-50</citedRange>
                     </bibl>
                     <bibl xml:id="bib1148-6">
                         <author>
                             <persName>
-                                <surname>Lagrange</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <ptr target="http://syriaca.org/bibl/1364"/>
@@ -235,7 +236,7 @@ Wiessner, Miirtyrer, 128-44.</quote>
                     <bibl xml:id="bib1148-7">
                         <author>
                             <persName>
-                                <surname>Leclercq</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <ptr target="http://syriaca.org/bibl/1375"/>
@@ -243,6 +244,7 @@ Wiessner, Miirtyrer, 128-44.</quote>
                     </bibl>
                     <bibl xml:id="bib1148-8">
                         <title>Šuhadā''</title>
+                        <ptr target="http://syriaca.org/bibl/1340"/>
                         <citedRange>I, 252-56</citedRange>
                     </bibl>
                     <bibl xml:id="bib1148-9">
@@ -260,7 +262,7 @@ Wiessner, Miirtyrer, 128-44.</quote>
                         <note>Other references, notably in Sozomen and </note>
                         <author>
                             <persName>
-                                <surname>Devos</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a">Commémoraisons</title>
@@ -270,10 +272,11 @@ Wiessner, Miirtyrer, 128-44.</quote>
                     <bibl xml:id="bib1148-12">
                         <author>
                             <persName>
-                                <surname>Wiessner</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Märtyrer</title>
+                        <ptr target="http://syriaca.org/bibl/1332"/>
                         <citedRange>128-44</citedRange>
                     </bibl>
                 </person>

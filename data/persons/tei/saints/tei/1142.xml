@@ -58,7 +58,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -205,7 +205,7 @@ BSO, I, 312 (J. Rabbi) .</quote>
                     <bibl xml:id="bib1142-4">
                         <author>
                             <persName>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Assyrie chrétienne</title>
@@ -215,11 +215,11 @@ BSO, I, 312 (J. Rabbi) .</quote>
                     <bibl xml:id="bib1142-5">
                         <author>
                             <persName>
-                                <forename>J.</forename>
-                                <surname>Habbi</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BSO</title>
+                        <ptr target="http://syriaca.org/bibl/1426"/>
                         <citedRange>I, 312</citedRange>
                     </bibl>
                 </person>

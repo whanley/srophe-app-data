@@ -58,7 +58,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -215,16 +215,17 @@ eds., Syrisches Christentum Weltweit. Festschrift W. Hage (Munster, 1995), 190-
                     <bibl xml:id="bib1166-5">
                         <author>
                             <persName>
-                                <surname>Assemani</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>ASMO</title>
+                        <ptr target="http://syriaca.org/bibl/1374"/>
                         <citedRange>I, 93-95</citedRange>
                     </bibl>
                     <bibl xml:id="bib1166-6">
                         <author>
                             <persName>
-                                <surname>Leclercq</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <ptr target="http://syriaca.org/bibl/1375"/>
@@ -233,7 +234,7 @@ eds., Syrisches Christentum Weltweit. Festschrift W. Hage (Munster, 1995), 190-
                     <bibl xml:id="bib1166-7">
                         <author>
                             <persName>
-                                <surname>Lagrange</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <ptr target="http://syriaca.org/bibl/1364"/>
@@ -241,16 +242,17 @@ eds., Syrisches Christentum Weltweit. Festschrift W. Hage (Munster, 1995), 190-
                     </bibl>
                     <bibl xml:id="bib1166-8">
                         <title>Šuhadā''</title>
+                        <ptr target="http://syriaca.org/bibl/1340"/>
                         <citedRange>I, 272-74</citedRange>
                     </bibl>
                     <bibl xml:id="bib1166-9">
                         <title>DHGE</title>
                         <author>
                             <persName>
-                                <forename>G.</forename>
-                                <surname>Levenq</surname>
+                                <surname/>
                             </persName>
                         </author>
+                        <ptr target="http://syriaca.org/bibl/1381"/>
                         <citedRange>VI, col. 942</citedRange>
                     </bibl>
                     <bibl xml:id="bib1166-10">
@@ -261,7 +263,7 @@ eds., Syrisches Christentum Weltweit. Festschrift W. Hage (Munster, 1995), 190-
                     <bibl xml:id="bib1166-11">
                         <author>
                             <persName>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a">Diocèses</title>
@@ -270,11 +272,11 @@ eds., Syrisches Christentum Weltweit. Festschrift W. Hage (Munster, 1995), 190-
                     </bibl>
                     <bibl xml:id="bib1166-12">
                         <title>BS</title>
+                        <ptr target="http://syriaca.org/bibl/1425"/>
                         <citedRange>II, 837-37</citedRange>
                         <author>
                             <persName>
-                                <forename>G.</forename>
-                                <surname>Raspini</surname>
+                                <surname/>
                             </persName>
                         </author>
                     </bibl>

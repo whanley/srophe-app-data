@@ -58,7 +58,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -229,8 +229,7 @@ Fiey, Nisibe, 167- 70.</quote>
                     <bibl xml:id="bib1168-5">
                         <author>
                             <persName>
-                                <forename>J.B.</forename>
-                                <surname>Chabot</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>La légende de Mar Bassus</title>
@@ -238,7 +237,7 @@ Fiey, Nisibe, 167- 70.</quote>
                         <note>reprinted in</note>
                         <author>
                             <persName>
-                                <surname>Leclercq</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <citedRange>III, 248-69</citedRange>
@@ -247,29 +246,29 @@ Fiey, Nisibe, 167- 70.</quote>
                     <bibl xml:id="bib1168-7">
                         <author>
                             <persName>
-                                <forename>A.</forename>
-                                <surname>van Lantschoot</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>DHGE</title>
+                        <ptr target="http://syriaca.org/bibl/1381"/>
                         <citedRange>VI, col.
                   1283</citedRange>
                     </bibl>
                     <bibl xml:id="bib1168-8">
                         <author>
                             <persName>
-                                <forename>J.-M.</forename>
-                                <surname>Sauget</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BS</title>
+                        <ptr target="http://syriaca.org/bibl/1425"/>
                         <citedRange>II,
                968-69</citedRange>
                     </bibl>
                     <bibl xml:id="bib1168-9">
                         <author>
                             <persName>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Nisibe</title>

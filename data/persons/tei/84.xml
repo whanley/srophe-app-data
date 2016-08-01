@@ -106,7 +106,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">The Syriac Biographical Dictionary</title>
@@ -266,8 +266,7 @@ BSO, II, 766 (J .M. Fiey).</quote>
                     <bibl xml:id="bib84-1">
                         <author>
                             <persName>
-                                <forename>S. P.</forename>
-                                <surname>Brock</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a" xml:lang="en">Pawla of Edessa</title>
@@ -305,7 +304,7 @@ BSO, II, 766 (J .M. Fiey).</quote>
                     <bibl xml:id="bib84-7">
                         <author>
                             <persName>
-                                <surname>Barsaum</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Lu'lu</title>
@@ -315,7 +314,7 @@ BSO, II, 766 (J .M. Fiey).</quote>
                     <bibl xml:id="bib84-8">
                         <author>
                             <persName>
-                                <surname>Honigmann</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Evêques et évêchés</title>
@@ -325,8 +324,7 @@ BSO, II, 766 (J .M. Fiey).</quote>
                     <bibl xml:id="bib84-9">
                         <author>
                             <persName>
-                                <forename>S.P.</forename>
-                                <surname>Brock</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>The Syriac Version of the Pseudo-Nonnus Mythological Scholia</title>
@@ -335,11 +333,11 @@ BSO, II, 766 (J .M. Fiey).</quote>
                     <bibl xml:id="bib84-10">
                         <author>
                             <persName>
-                                <forename>J .M.</forename>
-                                <surname>Fiey</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BSO</title>
+                        <ptr target="http://syriaca.org/bibl/1426"/>
                         <citedRange>II,
                766</citedRange>
                     </bibl>

@@ -63,7 +63,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -230,7 +230,7 @@ BS, I, 40- 42 (G. Lucchesi).</quote>
                     <bibl xml:id="bib1097-6">
                         <author>
                             <persName>
-                                <surname>Theodoret</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Hist. eccl.</title>
@@ -243,7 +243,7 @@ BS, I, 40- 42 (G. Lucchesi).</quote>
                     <bibl xml:id="bib1097-7">
                         <author>
                             <persName>
-                                <surname>Hoffmann</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Auszüge</title>
@@ -252,16 +252,17 @@ BS, I, 40- 42 (G. Lucchesi).</quote>
                     </bibl>
                     <bibl xml:id="bib1097-8">
                         <title>DHGE</title>
+                        <ptr target="http://syriaca.org/bibl/1381"/>
                         <citedRange>I, col. 61-62, s.v. 1. Abdas</citedRange>
                     </bibl>
                     <bibl xml:id="bib1097-9">
                         <author>
                             <persName>
-                                <forename>G.</forename>
-                                <surname>Lucchesi</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BS</title>
+                        <ptr target="http://syriaca.org/bibl/1425"/>
                         <citedRange>I,
                40-42</citedRange>
                     </bibl>
@@ -274,7 +275,7 @@ BS, I, 40- 42 (G. Lucchesi).</quote>
                     <bibl xml:id="bib1097-11">
                         <author>
                             <persName>
-                                <surname>Peeters</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a">Passion</title>

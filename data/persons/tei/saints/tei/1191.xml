@@ -58,7 +58,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">Gateway to the Syriac Saints</title>
@@ -207,8 +207,7 @@ Syriacum (Rome, 1990; OCA 236), 183- 93.</quote>
                     <bibl xml:id="bib1191-3">
                         <author>
                             <persName>
-                                <forename>M.</forename>
-                                <surname>van Esbroeck</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a">Une Note de Severe d'Antioche sur Juda Cyriaque</title>

@@ -101,7 +101,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2016-07-27-04:00</date>
+                <date>2016-07-31-04:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">The Syriac Biographical Dictionary</title>
@@ -304,8 +304,7 @@ BS, VI, 1226 (R. Janin).</quote>
                     <bibl xml:id="bib834-1">
                         <author>
                             <persName>
-                                <forename>S. P.</forename>
-                                <surname>Brock</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title level="a" xml:lang="en">Yulyana Saba</title>
@@ -362,7 +361,7 @@ BS, VI, 1226 (R. Janin).</quote>
                     <bibl xml:id="bib834-11">
                         <author>
                             <persName>
-                                <surname>Vööbus</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>Asceticism</title>
@@ -372,8 +371,7 @@ BS, VI, 1226 (R. Janin).</quote>
                     <bibl xml:id="bib834-12">
                         <author>
                             <persName>
-                                <forename>S.H.</forename>
-                                <surname>Griffith</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title> "Julian Saba: 'Father of the Monks' of Syria" </title>
@@ -384,11 +382,11 @@ BS, VI, 1226 (R. Janin).</quote>
                     <bibl xml:id="bib834-13">
                         <author>
                             <persName>
-                                <forename>R.</forename>
-                                <surname>Janin</surname>
+                                <surname/>
                             </persName>
                         </author>
                         <title>BS</title>
+                        <ptr target="http://syriaca.org/bibl/1425"/>
                         <citedRange>VI, 1226</citedRange>
                     </bibl>
                 </person>
