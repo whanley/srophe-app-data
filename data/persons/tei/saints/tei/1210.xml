@@ -171,7 +171,6 @@
             <listPerson>
                 <person xml:id="saint-1210" ana="#syriaca-saint">
                     <persName xml:id="name1210-a" xml:lang="en" syriaca-tags="#syriaca-headword">Anonymi 1210</persName>
-                    
                     <persName xml:id="name1210-2" xml:lang="en" syriaca-tags="#anonymous-description">Ten Brothers
           of Qartmin</persName>
                     <persName xml:id="name1210-3" xml:lang="fr-x-fiey" source="#bib1210-1">DIX FRÈRES DE QARTMĪN</persName>
@@ -184,8 +183,6 @@
                     <note type="abstract" xml:id="abstract-en-1210">In hagiography: Ten brothers of <placeName ref="http://syriaca.org/place/226">Qartmin</placeName> are remembered as a group of monks
           who took part in a fight with villagers from <placeName ref="http://syriaca.org/place/226">Qartmin</placeName> over the body of <persName ref="http://syriaca.org/person/1475/">Simeon of Qartmin</persName>.</note>
                     <state type="group" source="#bib1210-1"/>
-                    
-                    
                     <trait xml:lang="en">
                         <label>anonymous</label>
                     </trait>

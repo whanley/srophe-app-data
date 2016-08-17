@@ -169,7 +169,6 @@
                     <persName xml:id="name1212-1" xml:lang="syr" syriaca-tags="#syriaca-headword" source="#bib1212-1">ܡܠܦܢܐ ܣܘܪܝܝܐ</persName>
                     <persName xml:id="name1212-2" xml:lang="en-x-gedsh">Malpono suryoyo</persName>
                     <persName xml:id="name1212-a" xml:lang="en" syriaca-tags="#syriaca-headword">Anonymi 1212</persName>
-                    
                     <persName xml:id="name1212-3" xml:lang="en" syriaca-tags="#anonymous-description">Syrian Doctors</persName>
                     <persName xml:id="name1212-4" xml:lang="en">Syriac Doctors</persName>
                     <persName xml:id="name1212-5" xml:lang="fr" source="#bib1212-1">Docteurs syriens</persName>
@@ -192,8 +191,6 @@
                     <event type="attestation" xml:id="attestation1212-4" source="#bib1212-2">
                         <p xml:lang="en">Malpono suryoyo is commemorated in <title ref="http://syriaca.org/work/1671">Greek and Syriac Doctors (text)</title>.</p>
                     </event>
-                    
-                    
                     <state type="group" source="#bib1212-1"/>
                     <trait xml:lang="en">
                         <label>anonymous</label>

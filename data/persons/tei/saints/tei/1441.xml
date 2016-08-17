@@ -173,7 +173,6 @@
             <listPerson>
                 <person xml:id="saint-1441" ana="#syriaca-saint">
                     <persName xml:id="name1441-a" xml:lang="en" syriaca-tags="#syriaca-headword">Anonymi 1441</persName>
-                    
                     <persName xml:id="name1441-2" xml:lang="en" syriaca-tags="#anonymous-description">Saints of
           the Monastery of Mar Abhai</persName>
                     <persName xml:id="name1441-3" xml:lang="fr-x-fiey" source="#bib1441-1">SAINTS DU COUVENT DE MĀR ABḤĀÏ</persName>
@@ -186,8 +185,6 @@
             the <placeName>monastery of Mar Abhai</placeName> were commemorated by Rabban
           Saliba.</note>
                     <state type="group" source="#bib1441-1"/>
-                    
-                    
                     <trait xml:lang="en">
                         <label>anonymous</label>
                     </trait>
