@@ -35,7 +35,7 @@
                                         License.</p>
                     </licence>
                 </availability>
-                <date>2016-11-08+01:00</date>
+                <date>2016-11-29-05:00</date>
             </publicationStmt>
             <seriesStmt>
                 <title level="s">New Handbook of Syriac Literature</title>
@@ -49,7 +49,7 @@
                     <resp>Edited by</resp>
                     <name type="person" ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A. Michelson</name>
                 </respStmt>
-                <idno type="URI">http://syriaca.org/works</idno><!-- One or more volumes containing this record can go here.  --><!--<biblScope unit="vol" from="1" to="1">
+                <idno type="URI">http://syriaca.org/nhsl</idno><!-- One or more volumes containing this record can go here.  --><!--<biblScope unit="vol" from="1" to="1">
                             <title level="m">Bibliotheca Hagiographica Syriaca Electronica</title>
                             <idno type="URI">http://syriaca.org/bhse</idno>
                         </biblScope>-->
@@ -115,6 +115,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="draft">
+            <change who="http://syriaca.org/documentation/editors.xml#ngibson" when="2016-11-29-05:00">Updated to match new NHSL format.</change>
             <change who="http://syriaca.org/documentation/editors.xml#ngibson" n="1.0" when="2016-11-08+01:00">CREATED: work</change>
         </revisionDesc>
     </teiHeader>
@@ -125,6 +126,8 @@
                 <title xml:id="name4475-2" xml:lang="syr" syriaca-tags="#syriaca-headword" source="#bib4475-1">ܬܘܒ ܕܝܠܗ ܕܡܪܝ ܝܘܚܢܢ ܝܚܝܕܝܐ̣. ܐܓܪܬܐ ܕܫܲܕܪ 
                   ܐܢܫ̈ܐ ܝܚܝ̈ܕܝܐ̇. ܕܒܥ̣ܘ ܡܢܗ ܕܢܟ̣ܬܘܒ ܠܗܘܢ̣.  ܥܠ ܪܐܙܐ ܕܫܘܬܦܘܬܐ ܕܫܪܪܐ ܕܒܚ̈ܝܐ ܚ̈ܕܬܐ. ܕܡܛܠ ܡܢܐ ܒ̇ܦܠܐܬܐ ܐܬ݂ܡܠܠ ܫܪܪܐ ܕܥܬܝܕ܆ ܘܥܠ ܐܣ̈ܟܡܐ ܕܐܬ݂ܡܠܠ ܒܗܘܢ ܐܠܗܐ̣. ܘܬܚܘܝܬܐ ܕܥܠ ܢܦܫܐ̣. ܘܕܐܝܟܢ ܘܠ̇ܐ ܠܗ ܠܐܢܫ ܕܢܬ̇ܪܥܐ ܒܗܠܝܢ ܚ̈ܝܐ̇. ܥܠ ܚ̇ܕܝܘܬܐ ܕܐܠܗܘܬܐ ܘܕܐܢܫܘܬܐ. ܥܡ ܢܝ̈ܫܐ ܐܚܪ̈ܢܐ:܀:܀ ܚܘܒܐ ܒܟܠܙܒ̣ܢ ܕܢܚܘܒ ܝܕܥ̇. ܠܡܦ̣ܪܥ ܕܝܼܢ ܠܐ ܡܡܬܘܡ. ܏ܘܫ.According to Wright two marginal notes in Greek with Syriac translations are located beside this text:ⲈⲨⲦⲢⲰⲠⲒⲞⲤ,ܠܐܘܛܪܦܝܘܣandⲈⲨⲦⲢⲰⲠⲒⲞⲤ,ܘܐܘܣܒܝܘܣ</title>
                 <idno type="URI">http://syriaca.org/work/4475</idno>
+                <idno type="BL-Shelfmark">Add MS 12170</idno>
+                <textLang mainLang="syr"/>
                 <textLang mainLang="syr">Syriac</textLang><!-- Should we include any date from mss, like "extant"? -->
                 <note type="abstract"/>
                 <bibl type="syriaca:Catalogue" xml:id="bib4475-1">
