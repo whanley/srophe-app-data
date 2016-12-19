@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://syriaca.org/documentation/syriaca-tei-main.rnc" type="application/relax-ng-compact-syntax"?>
-<TEI xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="a" xml:lang="en">Maris bar Barʿaton — <foreign xml:lang="syr">ܕܝܪܗ ܕܡܪܝܣ ܒܪ ܒܪܥܬܘܢ</foreign></title>
+                <title level="a" xml:lang="en">Maris bar Barʿaton — <foreign xml:lang="syr">ܕܝܪܗ ܕܡܪܝܣ ܒܪ ܒܪܥܬܘܢ</foreign>
+                </title>
                 <title level="m" xml:lang="en">The Syriac Gazetteer</title>
                 <sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -37,7 +38,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2015-07-13</date>
+                <date>2016-12-19-05:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -70,6 +71,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="published">
+            <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2016-12-19-05:00">Updated: Updated alternate names for search functionality, corrects bug in https://github.com/srophe/srophe-eXist-app/issues/874.</change>
             <change who="http://syriaca.org/documentation/editors.xml#tcarlson" when="2015-07-13">CREATED: place</change>
         </revisionDesc>
     </teiHeader>
@@ -80,6 +82,8 @@
                     <placeName xml:id="name2568-1" xml:lang="en" syriaca-tags="#syriaca-headword">Maris bar Barʿaton</placeName>
                     <placeName xml:id="name2568-2" xml:lang="syr" syriaca-tags="#syriaca-headword" source="#bib2568-1">ܕܝܪܗ ܕܡܪܝܣ ܒܪ ܒܪܥܬܘܢ</placeName>
                     <placeName xml:id="name2568-3" xml:lang="en" source="#bib2568-2">Maris bar Barathon</placeName>
+                    <placeName xml:id="name2568-4" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Maris bar Baraton</placeName>
+                    <placeName xml:id="name2568-5" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Maris bar Bar‘aton</placeName>
                     <desc xml:id="abstract-en-2568" xml:lang="en">A monastery in <placeName ref="http://syriaca.org/place/2567">Telneshe</placeName> named after the chief of that village.</desc>
                     <location type="nested" source="#bib2568-1">
                         <settlement ref="http://syriaca.org/place/2567">Telneshe</settlement>

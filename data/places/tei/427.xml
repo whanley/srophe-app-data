@@ -59,7 +59,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2016-12-09+01:00</date>
+                <date>2016-12-19-05:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -91,6 +91,8 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="published">
+            <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2016-12-19-05:00">Updated: Updated alternate names for search functionality, corrects bug in https://github.com/srophe/srophe-eXist-app/issues/874.</change>
+            <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2016-12-19-05:00">Updated: Updated alternate names for search functionality, corrects bug in https://github.com/srophe/srophe-eXist-app/issues/874.</change>
             <change who="http://syriaca.org/documentation/editors.xml#ngibson" when="2016-12-09+01:00">Changed @xml:lang 'en-xsrp1' to 'en-x-srp1'</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-11-05-05:00">ADDED: Add alternate names for search functionality.</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-11-05-05:00">ADDED: Add alternate names for search functionality.</change>
@@ -114,12 +116,22 @@
                     <placeName xml:id="name427-7" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Qal‘at al-Imraʾa</placeName>
                     <placeName xml:id="name427-8" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Qalat al-Imra'a</placeName>
                     <placeName xml:id="name427-9" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Qal‘at al-Imra'a</placeName>
-                    <placeName xml:id="name427-10" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Qalat al-Imraʾa</placeName>
-                    <placeName xml:id="name427-11" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Qal’at al-Imraʾa</placeName>
-                    <placeName xml:id="name427-12" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Qalat al-Imraʾa</placeName>
-                    <placeName xml:id="name427-13" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Qalat al-Imraʾa</placeName>
-                    <placeName xml:id="name427-14" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Qal‘at al-Imraʾa</placeName>
-                    <placeName xml:id="name427-15" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Qal‘at al-Imraʾa</placeName>
+                    <placeName xml:id="name427-10" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Qalʿat al-Imraa</placeName>
+                    <placeName xml:id="name427-11" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Qalʿat al-Imra’a</placeName>
+                    <placeName xml:id="name427-12" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Qalat al-Imraa</placeName>
+                    <placeName xml:id="name427-13" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Qalat al-Imra’a</placeName>
+                    <placeName xml:id="name427-14" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Qal‘at al-Imraa</placeName>
+                    <placeName xml:id="name427-15" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Qal‘at al-Imra’a</placeName>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
                     <desc xml:id="abstract-en-427" xml:lang="en"/>
                     <desc xml:lang="syr-Syrj">
                         <quote source="#bib427-1">ܩܪܝܬܳܐ ܗܝ ܕܰܠܡܰܕܢܚܐ ܕܡܰܪܕܝܢ ܘܒܶܝܬ ܠܗ̇ ܠܕܰܝܪܳܐ ܕܙܰܥܦܰܪܐܢ.</quote>

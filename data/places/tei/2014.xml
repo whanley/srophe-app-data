@@ -33,7 +33,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-12-09+01:00</date>
+                <date>2016-12-19-05:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -65,6 +65,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="published">
+            <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2016-12-19-05:00">Updated: Updated alternate names for search functionality, corrects bug in https://github.com/srophe/srophe-eXist-app/issues/874.</change>
             <change who="http://syriaca.org/documentation/editors.xml#ngibson" when="2016-12-09+01:00">Changed @xml:lang 'en-xsrp1' to 'en-x-srp1'</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-11-05-05:00">ADDED: Add alternate names for search functionality.</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-11-05-05:00">ADDED: Add alternate names for search functionality.</change>
@@ -79,10 +80,14 @@
                 <place xml:id="place-2014" type="church">
                     <placeName xml:id="name2014-1" xml:lang="en" syriaca-tags="#syriaca-headword">Mar Mikhaʾil</placeName>
                     <placeName xml:id="name2014-2" xml:lang="en" source="#bib2014-1">Mār Mīkhāʾīl</placeName>
-                    <placeName xml:id="name2014-3" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Mar Mikhaʾil</placeName>
-                    <placeName xml:id="name2014-4" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Mar Mikhaʾil</placeName>
-                    <placeName xml:id="name2014-5" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Mār Mīkhāʾīl</placeName>
-                    <placeName xml:id="name2014-6" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Mār Mīkhāʾīl</placeName>
+                    <placeName xml:id="name2014-3" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Mar Mikhail</placeName>
+                    <placeName xml:id="name2014-4" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Mar Mikha’il</placeName>
+                    <placeName xml:id="name2014-5" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Mār Mīkhāīl</placeName>
+                    <placeName xml:id="name2014-6" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Mār Mīkhā’īl</placeName>
+                    
+                    
+                    
+                    
                     <desc xml:id="abstract-en-2014" xml:lang="en"/>
                     <location type="nested" source="#bib2014-1">
                         <region ref="http://syriaca.org/place/90">Hakkārī region</region>

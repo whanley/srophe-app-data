@@ -59,7 +59,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2016-12-09+01:00</date>
+                <date>2016-12-19-05:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -91,6 +91,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="published">
+            <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2016-12-19-05:00">Updated: Updated alternate names for search functionality, corrects bug in https://github.com/srophe/srophe-eXist-app/issues/874.</change>
             <change who="http://syriaca.org/documentation/editors.xml#ngibson" when="2016-12-09+01:00">Changed @xml:lang 'en-xsrp1' to 'en-x-srp1'</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-11-05-05:00">ADDED: Add alternate names for search functionality.</change>
             <change who=" http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-01-14">ADDED: syriaca-computed-start and syriaca-computed-end attributes for searching</change>
@@ -108,6 +109,8 @@
                     <placeName xml:id="name369-5" xml:lang="en" source="#bib369-3">Arabs’ Monastery</placeName>
                     <placeName xml:id="name369-6" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Dayro d-Araboye</placeName>
                     <placeName xml:id="name369-7" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Dayro d-‘Araboye</placeName>
+                    
+                    
                     <desc xml:id="abstract-en-369" xml:lang="en"/>
                     <desc xml:lang="syr-Syrj">
                         <quote source="#bib369-1">ܒܩܘܽܪܒܐ ܕܬܶܠ ܕܡܰܘܙܠܰܬ ܒܶܝܬ ܠܗ̇ ܠܬܶܠܒܣܡ ܐܶܬܒܢܺܝ ܒܕܳܪܐ ܚܡܺܝܫܳܝܐ. ܥܰܗܕܗ ܡܰܟܬܰܒܙܒ̈ܢܐ ܡܶܢ ܫܢܰܬ  521  -  845  ܘܐܶܬܢܰܦܰܩܘ ܒܗ ܐܰܪܒܥܐ ܐܶܦܝܺܣܩܘܦ̈ܐ</quote>

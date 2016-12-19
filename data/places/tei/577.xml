@@ -29,7 +29,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-12-09+01:00</date>
+                <date>2016-12-19-05:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -61,6 +61,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="published">
+            <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2016-12-19-05:00">Updated: Updated alternate names for search functionality, corrects bug in https://github.com/srophe/srophe-eXist-app/issues/874.</change>
             <change who="http://syriaca.org/documentation/editors.xml#ngibson" when="2016-12-09+01:00">Changed @xml:lang 'en-xsrp1' to 'en-x-srp1'</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-11-05-05:00">ADDED: Add alternate names for search functionality.</change>
             <change who=" http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-06-30-04:00">CHANGED tei:author element to tei:persName under tei:event element.</change>
@@ -80,6 +81,8 @@
                     <placeName xml:id="name577-4" xml:lang="ar" source="#bib577-3">بَعْلَبك</placeName>
                     <placeName xml:id="name577-5" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Baalbak</placeName>
                     <placeName xml:id="name577-6" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Ba‘albak</placeName>
+                    
+                    
                     <desc xml:id="abstract-en-577" xml:lang="en">A city in <placeName ref="http://syriaca.org/place/487">Lebanon</placeName>.</desc>
                     <location type="gps" source="#bib577-2">
                         <geo>34.006664 36.203685</geo>

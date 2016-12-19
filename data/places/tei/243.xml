@@ -51,7 +51,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2016-12-09+01:00</date>
+                <date>2016-12-19-05:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -83,6 +83,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="published">
+            <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2016-12-19-05:00">Updated: Updated alternate names for search functionality, corrects bug in https://github.com/srophe/srophe-eXist-app/issues/874.</change>
             <change who="http://syriaca.org/documentation/editors.xml#ngibson" when="2016-12-09+01:00">Changed @xml:lang 'en-xsrp1' to 'en-x-srp1'</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-11-05-05:00">ADDED: Add alternate names for search functionality.</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-11-05-05:00">ADDED: Add alternate names for search functionality.</change>
@@ -104,8 +105,12 @@
                     <placeName xml:id="name243-7" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Beth Man‘em</placeName>
                     <placeName xml:id="name243-8" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Banimim</placeName>
                     <placeName xml:id="name243-9" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Banim‘im</placeName>
-                    <placeName xml:id="name243-10" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Ṭur Abdin</placeName>
-                    <placeName xml:id="name243-11" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Ṭur ‘Abdin</placeName>
+                    
+                    
+                    
+                    
+                    
+                    
                     <desc xml:id="abstract-en-243" xml:lang="en">A village in <placeName ref="http://syriaca.org/place/221">Ṭur ʿAbdin</placeName> southeast of <placeName ref="http://syriaca.org/place/137">Midyat</placeName>.</desc>
                     <state type="existence" from="0925" to="1725" syriaca-computed-end="1725-01-01" syriaca-computed-start="0925-01-01">
                         <precision match="@from" notAfter="0925" syriaca-computed-end="0925-01-01"/>

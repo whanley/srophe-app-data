@@ -46,7 +46,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2016-12-09+01:00</date>
+                <date>2016-12-19-05:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -78,6 +78,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="published">
+            <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2016-12-19-05:00">Updated: Updated alternate names for search functionality, corrects bug in https://github.com/srophe/srophe-eXist-app/issues/874.</change>
             <change who="http://syriaca.org/documentation/editors.xml#ngibson" when="2016-12-09+01:00">Changed @xml:lang 'en-xsrp1' to 'en-x-srp1'</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-11-05-05:00">ADDED: Add alternate names for search functionality.</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-11-05-05:00">ADDED: Add alternate names for search functionality.</change>
@@ -95,8 +96,10 @@
                     <placeName xml:id="name498-4" xml:lang="ar" source="#bib498-2">برية معطشة</placeName>
                     <placeName xml:id="name498-5" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Muaṭṭasha desert</placeName>
                     <placeName xml:id="name498-6" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Mu‘aṭṭasha desert</placeName>
-                    <placeName xml:id="name498-7" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Maarrat al-Numān</placeName>
-                    <placeName xml:id="name498-8" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Ma‘arrat al-Nu‘mān</placeName>
+                    
+                    
+                    
+                    
                     <desc xml:id="abstract-en-498" xml:lang="en">A desert area between <placeName ref="http://syriaca.org/place/498">Maʿarrat al-Nuʿmān</placeName> and <placeName ref="http://syriaca.org/place/18">Aleppo</placeName>.</desc>
                     <state type="existence"/>
                     <idno type="URI">http://syriaca.org/place/498</idno>

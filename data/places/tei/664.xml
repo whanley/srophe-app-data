@@ -29,7 +29,7 @@
                         <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
                     </licence>
                 </availability>
-                <date>2016-12-09+01:00</date>
+                <date>2016-12-19-05:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -61,6 +61,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="published">
+            <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2016-12-19-05:00">Updated: Updated alternate names for search functionality, corrects bug in https://github.com/srophe/srophe-eXist-app/issues/874.</change>
             <change who="http://syriaca.org/documentation/editors.xml#ngibson" when="2016-12-09+01:00">Changed @xml:lang 'en-xsrp1' to 'en-x-srp1'</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-11-05-05:00">ADDED: Add alternate names for search functionality.</change>
             <change who=" http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-01-14">ADDED: latitude and longitude from Pleiades</change>
@@ -75,6 +76,8 @@
                     <placeName xml:id="name664-1" xml:lang="en" syriaca-tags="#syriaca-headword" source="#bib664-1">ʿĀmūda</placeName>
                     <placeName xml:id="name664-2" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Āmūda</placeName>
                     <placeName xml:id="name664-3" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">‘Āmūda</placeName>
+                    
+                    
                     <desc xml:id="abstract-en-664" xml:lang="en">A town west of <placeName ref="http://syriaca.org/place/160">Qamishli</placeName> with a Syriac Orthodox school.</desc>
                     <location type="gps" source="#bib664-2">
                         <geo>37.104166 40.93</geo>

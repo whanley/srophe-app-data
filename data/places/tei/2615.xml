@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://syriaca.org/documentation/syriaca-tei-main.rnc" type="application/relax-ng-compact-syntax"?>
-<TEI xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -58,7 +58,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2016-05-25-05:00</date>
+                <date>2016-12-19-05:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -90,6 +90,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="published">
+            <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2016-12-19-05:00">Updated: Updated alternate names for search functionality, corrects bug in https://github.com/srophe/srophe-eXist-app/issues/874.</change>
             <change who=" http://syriaca.org/documentation/editors.xml#tcarlson" when="2016-05-25-05:00">CREATED: place</change>
         </revisionDesc>
     </teiHeader>
@@ -102,6 +103,8 @@
                     <placeName xml:id="name2615-3" xml:lang="syr-Syrj" source="#bib2615-3">ܣܠܝܺܩ ܘܩܰܛܝܣܦܘܢ</placeName>
                     <placeName xml:id="name2615-4" xml:lang="ar" source="#bib2615-4">سليق وقسطفون</placeName>
                     <placeName xml:id="name2615-5" xml:lang="en" source="#bib2615-1">al-Madāʾin</placeName>
+                    <placeName xml:id="name2615-6" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">al-Madāin</placeName>
+                    <placeName xml:id="name2615-7" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">al-Madā’in</placeName>
                     <desc xml:id="abstract-en-2615" xml:lang="en">
                         Diocese which became the patriarchal diocese of the Church of the East, based in <placeName ref="http://syriaca.org/place/475">Kokhe</placeName>, but often referred to by modern scholars as <placeName ref="http://syriaca.org/place/182">Seleucia</placeName>-<placeName ref="http://syriaca.org/place/58">Ctesiphon</placeName>.
                     </desc>

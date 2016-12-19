@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://syriaca.org/documentation/syriaca-tei-main.rnc" type="application/relax-ng-compact-syntax"?>
-<TEI xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:syriaca="http://syriaca.org" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -70,8 +70,9 @@
             <listPlace>
                 <place xml:id="place-2553" type="settlement">
                     <placeName xml:id="name2553-1" xml:lang="en" syriaca-tags="#syriaca-headword" source="#bib2553-1">Verin Dvin</placeName>
-					<placeName xml:id="name2553-2" xml:lang="en" source="#bib2553-1">Dvin-Aysor</placeName>
-                    <desc xml:id="abstract-en-2553" xml:lang="en">An Assyrian settlement in <placeName ref="http://syriaca.org/place/576">Armenia</placeName> southwest of <placeName ref="http://syriaca.org/place/817">Erevan</placeName></desc>
+                    <placeName xml:id="name2553-2" xml:lang="en" source="#bib2553-1">Dvin-Aysor</placeName>
+                    <desc xml:id="abstract-en-2553" xml:lang="en">An Assyrian settlement in <placeName ref="http://syriaca.org/place/576">Armenia</placeName> southwest of <placeName ref="http://syriaca.org/place/817">Erevan</placeName>
+                    </desc>
                     <location type="nested" source="#bib2553-1">
                         <region ref="http://syriaca.org/place/576">Armenia</region>
                     </location>
@@ -81,8 +82,8 @@
                     <idno type="URI">http://syriaca.org/place/2553</idno>
                     <bibl xml:id="bib2553-1">
                         <title xml:lang="en">Assyrians in Armenia: An Interdisciplinary Study</title>
-						<citedRange unit="pp">343, 347-348</citedRange>
-						<ptr target="http://syriaca.org/bibl/656"/>
+                        <citedRange unit="pp">343, 347-348</citedRange>
+                        <ptr target="http://syriaca.org/bibl/656"/>
                     </bibl>
                 </place>
             </listPlace>

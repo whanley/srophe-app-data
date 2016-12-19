@@ -55,7 +55,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2016-12-09+01:00</date>
+                <date>2016-12-19-05:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -87,6 +87,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="published">
+            <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2016-12-19-05:00">Updated: Updated alternate names for search functionality, corrects bug in https://github.com/srophe/srophe-eXist-app/issues/874.</change>
             <change who="http://syriaca.org/documentation/editors.xml#ngibson" when="2016-12-09+01:00">Changed @xml:lang 'en-xsrp1' to 'en-x-srp1'</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-11-05-05:00">ADDED: Add alternate names for search functionality.</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-11-05-05:00">ADDED: Add alternate names for search functionality.</change>
@@ -114,6 +115,10 @@
                     <placeName xml:id="name321-10" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Diyār Rabī‘a</placeName>
                     <placeName xml:id="name321-11" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Diyār Rabia</placeName>
                     <placeName xml:id="name321-12" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Diyār Rabi‘a</placeName>
+                    
+                    
+                    
+                    
                     <desc xml:id="abstract-en-321" xml:lang="en"/>
                     <desc xml:lang="syr-Syrj">
                         <quote source="#bib321-1">ܒܝܬ ܇ ܒܘܪܐ ܘܕܶܩܠܰܬ ܐܝܬܰܝܗܘܢ ܡܰܥܡܪ̈ܶܐ ܕܬܰܓܠܒܳܝ̈ܐ ܛܘܗܡܳܐ ܪܰܒܐ ܕܰܐܪ̈ܰܐܒܳܝܐ ܘܐܺܝܬܰܝܗܘܽܢ ܗܘܰܘ ܡܫܝܚ̈ܝܶܐ ܣܘܪ̈ܝܳܝܐ ܐܰܪ̈ܬܘܕܘܟܣܽܘ ܘܩܰܘܺܝܘ ܡܫܝܚܝ̈ܐ ܥܕܰܡܳܐ ܠܡܰܐܬܐ ܥܣܝܪܳܝܬܳܐ ܘܡܶܢ ܛܒ̈ܝܒܶܐ ܕܓܰܒܪ̈ܶܝܗ̇ ܓܰܝܐܬ ܒܪ ܓܘܬ ܕܺܝܕܺܝܥ ܐܰܟܛܠ ܦܘܺܐܝܛܳܐ ܕܢܰܦܝܩ ܫܡܗ ܚܕܳܪ̈ܰܝ ܫܢܰܬ  710  ܐܬܓܰܙܝܰܬ ܡܢ ܐܢܳܫ̈ܝܗ̇ ܒܕܳܪܳܐ ܕܐܰܪܒܰܥܣܪ ܐܶܬܝܰܬܒܬ ܚܕܳܪ̈ܰܝ ܫܢܰܬ  1921  ܘܐܶܬܚ̈ܕܰܬܝ ܒܗ̇ ܡܕܝܢ̈ܬܳܐ ܕܚܰܣܝܟܐ ܘܒܶܝܬܙ̈ܠܐ ܘܪܝܫ ܥܰܝܢܳܐ ܘܫܰܪܝ ܪܳܕܐ ܒܳܗ̇ ܫܘܽܟܠܠܐ.</quote>

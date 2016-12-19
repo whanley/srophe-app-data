@@ -46,7 +46,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2016-12-09+01:00</date>
+                <date>2016-12-19-05:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -78,6 +78,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="published">
+            <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2016-12-19-05:00">Updated: Updated alternate names for search functionality, corrects bug in https://github.com/srophe/srophe-eXist-app/issues/874.</change>
             <change who="http://syriaca.org/documentation/editors.xml#ngibson" when="2016-12-09+01:00">Changed @xml:lang 'en-xsrp1' to 'en-x-srp1'</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-11-05-05:00">ADDED: Add alternate names for search functionality.</change>
             <change who=" http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-01-14">ADDED: syriaca-computed-start and syriaca-computed-end attributes for searching</change>
@@ -94,6 +95,8 @@
                     <placeName xml:id="name568-4" xml:lang="ar" source="#bib568-2">مرج العين</placeName>
                     <placeName xml:id="name568-5" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Marj al-Ayn</placeName>
                     <placeName xml:id="name568-6" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Marj al-‘Ayn</placeName>
+                    
+                    
                     <desc xml:id="abstract-en-568" xml:lang="en">Near <placeName ref="http://syriaca.org/place/75">Doliche</placeName>.</desc>
                     <state type="existence" from="1943" syriaca-computed-start="1943-01-01">
                         <precision match="@from" notAfter="1943" syriaca-computed-end="1943-01-01"/>

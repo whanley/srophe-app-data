@@ -55,7 +55,7 @@
                         </p>
                     </licence>
                 </availability>
-                <date>2016-12-09+01:00</date>
+                <date>2016-12-19-05:00</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Born digital.</p>
@@ -87,6 +87,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc status="published">
+            <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2016-12-19-05:00">Updated: Updated alternate names for search functionality, corrects bug in https://github.com/srophe/srophe-eXist-app/issues/874.</change>
             <change who="http://syriaca.org/documentation/editors.xml#ngibson" when="2016-12-09+01:00">Changed @xml:lang 'en-xsrp1' to 'en-x-srp1'</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-11-05-05:00">ADDED: Add alternate names for search functionality.</change>
             <change who="http://syriaca.org/documentation/editors.xml#wsalesky" when="2014-11-05-05:00">ADDED: Add alternate names for search functionality.</change>
@@ -107,6 +108,10 @@
                     <placeName xml:id="name348-7" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Tar‘il</placeName>
                     <placeName xml:id="name348-8" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Tarīl Monastery</placeName>
                     <placeName xml:id="name348-9" xml:lang="en-x-srp1" syriaca-tags="#syriaca-simplified-script">Tar‘īl Monastery</placeName>
+                    
+                    
+                    
+                    
                     <desc xml:id="abstract-en-348" xml:lang="en">A monastery between <placeName ref="http://syriaca.org/place/18">Aleppo</placeName> and the <placeName ref="http://syriaca.org/place/82">Euphrates</placeName>.</desc>
                     <desc xml:lang="syr-Syrj">
                         <quote source="#bib348-2">ܡܝܰܬܰܒ ܗܘܳܬ ܒܕܘܟܬܐ ܕܩܰܪܝܒܳܐ ܠܚܳܠܳܒ ܠܓܰܒܳܐ ܕܬܰܪܥܳܐ ܕܺܝܕܝܥ ܬܪܰܥ ܐܝܺܠ ܒܰܫܡܗ ܣܘܪܝܳܝܳܐ. ܐܶܬܥܰܠܝ ܒܶܢܝܳܢܗ ܒܕܳܪܳܐ ܫܬܝܬܳܝܐ. ܘܒܗ ܐܶܣܬܰܦܰܪ ܬܳܐܘܡܰܐ ܚܰܪܩܶܠܳܝܳܐ ܡܳܪܳܐ ܕܡܰܦܰܩܬܐ ܚܰܪܩܶܠܳܝܬܳܐ ܘܥܰܕܰܪ ܠܥܺܕܬܳܐ ܒܰܬܪܶܝܢ ܦܰܛܪܝܰܪ̈ܟܶܐ ܘܚܰܡܫܰܥܣܪ ܐܶܦܝܣܩܘ̈ܦܐ ܘܒܰܫܢܰܬ  975  ܐܶܬܦܣܶܩܘ ܛܶܒܰܘ̈ܗܝ</quote>
