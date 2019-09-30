@@ -1,5 +1,5 @@
 <!-- This blank template last updated 18 September 2019. Delete this comment before editing any code below. -->
-<?oxygen RNGSchema="enrich-syriaca.rnc" type="compact"?>
+<?xml-model href="http://syriaca.org/documentation/syriaca-tei-main.rnc" type="application/relax-ng-compact-syntax"?>
 <?xml-stylesheet type="text/css" href="SRPEnrichCSS.css"?>
 <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
