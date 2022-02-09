@@ -1,3 +1,3 @@
 # srophe-app-data
-Repository for Syriaca.org TEI data, used by srophe-eXist-app. 
+Repository for dig-eg-gaz TEI data, used by srophe-eXist-app. 
 
