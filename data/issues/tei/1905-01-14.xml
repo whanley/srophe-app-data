@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"
-?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/out/egSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <?xml-stylesheet type="text/xsl" href="dig-eg-gaz.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
@@ -13,12 +12,14 @@
             </titleStmt>
             <editionStmt>
                 <edition>
-                    <date when="2016-12-09">December 9, 2016</date><gloss>2</gloss></edition>
+                    <date when="2016-12-09">December 9, 2016</date>
+                    <gloss>2</gloss>
+                </edition>
             </editionStmt>
             <publicationStmt>
                 <publisher>FSU University Libraries</publisher>
                 <pubPlace>Tallahassee, FL</pubPlace>
-                <idno type="URI">https://github.com/dig-eg-gaz/content/1905-01-14/tei</idno>
+                <idno type="URI">https://github.com/dig-eg-gaz/content/1905-01-14</idno>
             </publicationStmt>
             <sourceDesc>
                 <bibl>
