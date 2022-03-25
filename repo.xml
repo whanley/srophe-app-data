@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <meta xmlns="http://exist-db.org/xquery/repo">
-    <description>TEI data used by srophe-eXist-app</description>
+    <description>TEI data used by Digital Egyptian Gazette</description>
     <author>Digital Egyptian Gazette</author>
     <website>https://dig-eg-gaz.github.io/</website>
     <status>alpha</status>
     <license>GNU-LGPL</license>
     <copyright>true</copyright>
     <type>application</type>
-    <target>srophe-data</target>
+    <target>dig-eg-gaz-data</target>
     <prepare>pre-install.xql</prepare>
     <finish/>
     <deployed>2022-02-09T13:17:07.65-04:00</deployed>
